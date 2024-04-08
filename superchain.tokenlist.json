@@ -31,6 +31,35 @@
         },
         "opTokenId": "STPT"
       }
+    },
+
+    {
+      "chainId": 1,
+      "address": "0xfe3b138879d6d0555be4132dcfe6e7424e257a2e",
+      "name": "SoftDAO",
+      "symbol": "SOFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png?1696527557",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        },
+        "opTokenId": "SOFT"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
+      "name": "SoftDAO",
+      "symbol": "SOFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png?1696527557",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        },
+        "opTokenId": "SOFT"
+      }
     }
   ],
   "version": {

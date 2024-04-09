@@ -89,7 +89,37 @@
         },
         "opTokenId": "$Reach"
       }
-    }
+    },
+
+    {
+        "chainId": 1,
+        "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+        "name": "ZynCoin",
+        "symbol": "ZYN",
+        "decimals": 18,
+        "logoURI": "https://svgshare.com/i/14yn.svg",
+        "extensions": {
+          "standardBridgeAddresses": {
+            "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+          },
+          "opTokenId": "ZYN"
+        }
+      },
+      {
+        "chainId": 8453,
+        "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
+        "name": "ZynCoin",
+        "symbol": "ZYN",
+        "decimals": 18,
+        "logoURI": "https://svgshare.com/i/14yn.svg",
+        "extensions": {
+          "standardBridgeAddresses": {
+            "1": "0x4200000000000000000000000000000000000010"
+          },
+          "opTokenId": "ZYN"
+        }
+      }
+
   ],
   "version": {
     "major": 1,

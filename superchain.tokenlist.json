@@ -90,6 +90,34 @@
         "opTokenId": "$Reach"
       }
     }
+      {
+      "chainId": 1,
+      "address": "0x7ae4f8885f6cfa41a692cb9da3789cfa6a83e9f2",
+      "name": "GENOME",
+      "symbol": "GENOME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        },
+        "opTokenId": "GENOME"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
+      "name": "GENOME",
+      "symbol": "GENOME",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        },
+        "opTokenId": "GENOME"
+      }
+    }
   ],
   "version": {
     "major": 1,

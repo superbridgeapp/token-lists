@@ -88,9 +88,9 @@
           "1": "0x4200000000000000000000000000000000000010"
         },
         "opTokenId": "$Reach"
-      }
-    }
-      {
+     },
+      
+    {
       "chainId": 1,
       "address": "0x7ae4f8885f6cfa41a692cb9da3789cfa6a83e9f2",
       "name": "GENOME",
@@ -117,7 +117,35 @@
         },
         "opTokenId": "GENOME"
       }
-    }
+    },
+
+    {
+      "chainId": 1,
+      "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
+      "name": "Wrapped MistCoin",
+      "symbol": "$WMC",
+      "decimals": 2,
+      "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        },
+        "opTokenId": "$WMC"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x3d2EbA645c44BBD32A34b7c017667711eb5b173C",
+      "name": "Wrapped MistCoin",
+      "symbol": "$WMC",
+      "decimals": 2,
+      "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
+      "extensions": {
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        },
+        "opTokenId": "$WMC"
+      }
   ],
   "version": {
     "major": 1,

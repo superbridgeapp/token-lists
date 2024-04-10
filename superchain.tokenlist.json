@@ -88,8 +88,9 @@
           "1": "0x4200000000000000000000000000000000000010"
         },
         "opTokenId": "$Reach"
-     },
-      
+      }
+    },
+
     {
       "chainId": 1,
       "address": "0x7ae4f8885f6cfa41a692cb9da3789cfa6a83e9f2",
@@ -146,6 +147,7 @@
         },
         "opTokenId": "$WMC"
       }
+    }
   ],
   "version": {
     "major": 1,

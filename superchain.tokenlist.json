@@ -4,7 +4,6 @@
   "keywords": ["scaling", "layer2", "infrastructure"],
   "timestamp": "2024-04-02T19:25:45.185Z",
   "tokens": [
-    
     {
       "chainId": 1,
       "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
@@ -177,7 +176,7 @@
         "opTokenId": "ZYN"
       }
     },
-     {
+    {
       "chainId": 1,
       "address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
       "name": "MONKE",
@@ -234,7 +233,7 @@
       }
     },
 
-  {
+    {
       "chainId": 1,
       "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
       "name": "Apu Apustaja",
@@ -248,7 +247,7 @@
         "opTokenId": "APU"
       }
     },
-    
+
     {
       "chainId": 8453,
       "address": "0x7A2C5e7788E55Ec0a7ba4aEeC5B3da322718Fb5e",
@@ -263,7 +262,6 @@
         "opTokenId": "APU"
       }
     }
-
   ],
   "version": {
     "major": 1,

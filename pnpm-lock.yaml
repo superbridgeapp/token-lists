@@ -17,6 +17,9 @@ devDependencies:
   jest:
     specifier: ^29.7.0
     version: 29.7.0
+  jest-cli:
+    specifier: ^29.7.0
+    version: 29.7.0
   ts-jest:
     specifier: ^29.1.2
     version: 29.1.2(@babel/core@7.24.4)(babel-jest@29.7.0)(jest@29.7.0)(typescript@5.4.5)

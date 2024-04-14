@@ -5,6 +5,37 @@
   "timestamp": "2024-04-02T19:25:45.185Z",
   "tokens": [
     {
+      "chainId":1,
+      "address":"0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
+      "name":"Independence Token",
+      "symbol":"RFKJ",
+      "decimals":18,
+      "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
+      "opTokenId":"RFKJ",
+      "extensions":{
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        },
+        "opTokenId": "RFKJ"
+      }
+    },
+    {
+      "chainId":8453,
+      "address":"0x54a65B16D18527160FAFC6FCfEBAeD47c2976dfA",
+      "name":"Independence Token",
+      "symbol":"RFKJ",
+      "decimals":18,
+      "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
+      "opTokenId":"RFKJ",
+      "extensions":{
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        },
+        "opTokenId": "RFKJ"
+      }
+    },
+    
+    {
       "chainId": 1,
       "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
       "name": "STPT Network",

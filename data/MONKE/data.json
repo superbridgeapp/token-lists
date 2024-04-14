@@ -1,0 +1,11 @@
+{
+  "name": "MONKE",
+  "symbol": "MONKE",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
+  "opTokenId": "MONKE",
+  "addresses": {
+    "1": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
+    "8453": "0xe8740ff403060dae99c63a684e0dfe3eaa97e9bc"
+  }
+}

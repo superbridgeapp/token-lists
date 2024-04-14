@@ -1,0 +1,11 @@
+{
+  "name": "ZynCoin",
+  "symbol": "ZYN",
+  "decimals": 18,
+  "logoURI": "https://svgshare.com/i/14yn.svg",
+  "opTokenId": "ZYN",
+  "addresses": {
+    "1": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+    "8453": "0x82c8f48ac694841360de84d649a0d48d239b61f8"
+  }
+}

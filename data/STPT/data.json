@@ -1,0 +1,11 @@
+{
+  "name": "STPT Network",
+  "symbol": "STPT",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/8713/standard/STP.png",
+  "opTokenId": "STPT",
+  "addresses": {
+    "1": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+    "8453": "0x4489d0a0345eCB216A3994De780d453c7fA6312C"
+  }
+}

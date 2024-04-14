@@ -1,0 +1,11 @@
+{
+  "name": "Everyworld",
+  "symbol": "EVERY",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EVERY/logo.svg",
+  "opTokenId": "EVERY",
+  "addresses": {
+    "1": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
+    "8453": "0x717d31a60a9e811469673429c9f8ea24358990f1"
+  }
+}

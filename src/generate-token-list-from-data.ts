@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from "fs";
+import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 import { createPublicClient, http, Address } from "viem";
 import { isAddressEqual } from "viem/utils";
@@ -171,6 +171,11 @@ async function main() {
 
     superchainTokens.push(...tokens);
   }
+
+  writeFileSync(
+    join(__dirname, "..", "superchain.tokenlist.json"),
+    JSON.stringify(superchainTokens, null, 2)
+  );
 }
 
 main();

@@ -1,0 +1,11 @@
+{
+  "name": "The Secret Coin",
+  "symbol": "TSC",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/65c3225aa42e2595dc8a5732bef07725b8b32fa4/data/TSC/logo.png",
+  "opTokenId": "TSC",
+  "addresses": {
+    "1": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
+    "8453": "0xfee5178bb6ad41e7d5bbc7f6145feb27460dd1ed"
+  }
+}

@@ -24,6 +24,9 @@ async function main() {
 
     console.log("Verifying", data!.name);
 
+    let mintable = false;
+    let base = false;
+
     for (const [chainId, address] of Object.entries(data!.addresses)) {
       const client = createPublicClient({
         chain: getViemChain(chainId),
@@ -53,6 +56,7 @@ async function main() {
 
       // mintable
       if (BRIDGE && REMOTE_TOKEN) {
+        mintable = true;
         console.log(chainId, "is mintable");
 
         const baseChainId = Object.entries(data!.addresses).find(
@@ -88,7 +92,13 @@ async function main() {
         if (!isAddressEqual(REMOTE_BRIDGE, BRIDGE)) {
           throw new Error("Bridge addresses do not match");
         }
+      } else {
+        base = true;
       }
+    }
+
+    if (mintable !== true || base !== true) {
+      throw new Error("Tokens do not point at each other");
     }
   }
 }

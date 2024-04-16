@@ -53,6 +53,8 @@ async function main() {
           })
           .catch(() => null),
       ]);
+      console.log("BRIDGE", BRIDGE);
+      console.log("REMOTE_TOKEN", REMOTE_TOKEN);
 
       // mintable
       if (BRIDGE && REMOTE_TOKEN) {
@@ -78,6 +80,7 @@ async function main() {
         if (!BASE_BRIDGE) {
           throw new Error("BASE_BRIDGE not found");
         }
+        console.log("BASE_BRIDGE", BASE_BRIDGE);
 
         const REMOTE_BRIDGE = await client
           .readContract({
@@ -86,6 +89,8 @@ async function main() {
             address: BASE_BRIDGE,
           })
           .catch(() => null);
+        console.log("REMOTE_BRIDGE", REMOTE_BRIDGE);
+
         if (!REMOTE_BRIDGE) {
           throw new Error("REMOTE_BRIDGE not found");
         }

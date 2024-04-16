@@ -9,6 +9,9 @@ jobs:
   generate:
     name: generate
     runs-on: ubuntu-latest
+    if: |
+      github.event.head_commit.committer.username != 'github-actions[bot]'
+        && github.repository == 'superbridgeapp/token-lists'
 
     steps:
       - uses: actions/checkout@v4

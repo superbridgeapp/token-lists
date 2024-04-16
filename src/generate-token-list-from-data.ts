@@ -174,7 +174,22 @@ async function main() {
 
   writeFileSync(
     join(__dirname, "..", "superchain.tokenlist.json"),
-    JSON.stringify(superchainTokens, null, 2)
+    JSON.stringify(
+      {
+        name: "Superbridge Superchain Token List",
+        logoURI: "https://ethereum-optimism.github.io/optimism.svg",
+        keywords: ["scaling", "layer2", "infrastructure"],
+        timestamp: new Date(),
+        tokens: superchainTokens,
+        version: {
+          major: 1,
+          minor: 0,
+          patch: 0,
+        },
+      },
+      null,
+      2
+    )
   );
 }
 

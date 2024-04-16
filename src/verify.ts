@@ -111,6 +111,8 @@ async function main() {
 
     if (mintable !== true || base !== true) {
       throw new Error("Tokens do not point at each other");
+    } else {
+      console.log("✅");
     }
   }
 }

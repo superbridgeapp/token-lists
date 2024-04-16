@@ -66,7 +66,9 @@ async function main() {
         );
         if (!baseChainId) {
           throw new Error(
-            `No baseChainId found for ${data!.symbol}:${chainId}`
+            `No corresponding token address found for ${
+              data!.symbol
+            } on ${chainId}`
           );
         }
 

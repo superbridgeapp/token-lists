@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import { Address, createPublicClient, http } from "viem";
-import { isAddressEqual } from "viem/utils";
+import { isAddressEqual, isAddress } from "viem/utils";
 
 import { OptimismMintableERC20Abi } from "./abis/OptimismMintableERC20";
 import { StandardBridgeAbi } from "./abis/StandardBridge";
@@ -29,6 +29,10 @@ async function main() {
         chain: getViemChain(chainId),
         transport: http(),
       });
+
+      if (!isAddress(address)) {
+        throw new Error(`Invalid address for chainId ${chainId}`);
+      }
 
       const [BRIDGE, REMOTE_TOKEN] = await Promise.all([
         client

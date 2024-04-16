@@ -1,302 +1,310 @@
-{
-  "name": "Superbridge Superchain Token List",
-  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
-  "keywords": ["scaling", "layer2", "infrastructure"],
-  "timestamp": "2024-04-02T19:25:45.185Z",
-  "tokens": [
-    {
-      "chainId":1,
-      "address":"0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
-      "name":"Independence Token",
-      "symbol":"RFKJ",
-      "decimals":18,
-      "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
-      "opTokenId":"RFKJ",
-      "extensions":{
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "RFKJ"
-      }
-    },
-    {
-      "chainId":8453,
-      "address":"0x54a65B16D18527160FAFC6FCfEBAeD47c2976dfA",
-      "name":"Independence Token",
-      "symbol":"RFKJ",
-      "decimals":18,
-      "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
-      "opTokenId":"RFKJ",
-      "extensions":{
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "RFKJ"
-      }
-    },
-    
-    {
-      "chainId": 1,
-      "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
-      "name": "STPT Network",
-      "symbol": "STPT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/8713/standard/STP.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "STPT"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x4489d0a0345eCB216A3994De780d453c7fA6312C",
-      "name": "STPT Network",
-      "symbol": "STPT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/8713/standard/STP.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "STPT"
-      }
-    },
-
-    {
-      "chainId": 1,
-      "address": "0xfe3b138879d6d0555be4132dcfe6e7424e257a2e",
-      "name": "SoftDAO",
-      "symbol": "SOFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "SOFT"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
-      "name": "SoftDAO",
-      "symbol": "SOFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "SOFT"
-      }
-    },
-
-    {
-      "chainId": 1,
-      "address": "0x8b12bd54ca9b2311960057c8f3c88013e79316e3",
-      "name": "Reach",
-      "symbol": "$Reach",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "$Reach"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
-      "name": "Reach",
-      "symbol": "$Reach",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "$Reach"
-      }
-    },
-
-    {
-      "chainId": 1,
-      "address": "0x7ae4f8885f6cfa41a692cb9da3789cfa6a83e9f2",
-      "name": "GENOME",
-      "symbol": "GENOME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "GENOME"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
-      "name": "GENOME",
-      "symbol": "GENOME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "GENOME"
-      }
-    },
-
-    {
-      "chainId": 1,
-      "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
-      "name": "Wrapped MistCoin",
-      "symbol": "$WMC",
-      "decimals": 2,
-      "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "$WMC"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x3d2EbA645c44BBD32A34b7c017667711eb5b173C",
-      "name": "Wrapped MistCoin",
-      "symbol": "$WMC",
-      "decimals": 2,
-      "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "$WMC"
-      }
-    },
-    {
-      "chainId": 1,
-      "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
-      "name": "ZynCoin",
-      "symbol": "ZYN",
-      "decimals": 18,
-      "logoURI": "https://svgshare.com/i/14yn.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "ZYN"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
-      "name": "ZynCoin",
-      "symbol": "ZYN",
-      "decimals": 18,
-      "logoURI": "https://svgshare.com/i/14yn.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "ZYN"
-      }
-    },
-    {
-      "chainId": 1,
-      "address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
-      "name": "MONKE",
-      "symbol": "MONKE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "MONKE"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0xe8740ff403060dae99c63a684e0dfe3eaa97e9bc",
-      "name": "MONKE",
-      "symbol": "MONKE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "MONKE"
-      }
-    },
-    {
-      "chainId": 1,
-      "address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
-      "name": "Everyworld",
-      "symbol": "EVERY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EVERY/logo.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "EVERY"
-      }
-    },
-    {
-      "chainId": 8453,
-      "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
-      "name": "Everyworld",
-      "symbol": "EVERY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EVERY/logo.svg",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "EVERY"
-      }
-    },
-
-    {
-      "chainId": 1,
-      "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
-      "name": "Apu Apustaja",
-      "symbol": "APU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        },
-        "opTokenId": "APU"
-      }
-    },
-
-    {
-      "chainId": 8453,
-      "address": "0x7A2C5e7788E55Ec0a7ba4aEeC5B3da322718Fb5e",
-      "name": "Apu Apustaja",
-      "symbol": "APU",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
-      "extensions": {
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        },
-        "opTokenId": "APU"
+[
+  {
+    "name": "Reach",
+    "symbol": "$Reach",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
+    "address": "0x8B12BD54CA9B2311960057C8F3C88013e79316E3",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "$Reach",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
       }
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
+  },
+  {
+    "name": "Reach",
+    "symbol": "$Reach",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
+    "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "$Reach",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "Wrapped MistCoin",
+    "symbol": "$WMC",
+    "decimals": 2,
+    "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
+    "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "$WMC",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "Wrapped MistCoin",
+    "symbol": "$WMC",
+    "decimals": 2,
+    "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
+    "address": "0x3d2EbA645c44BBD32A34b7c017667711eb5b173C",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "$WMC",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
+    "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "APU",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
+    "address": "0x7A2C5e7788E55Ec0a7ba4aEeC5B3da322718Fb5e",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "APU",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "Everyworld",
+    "symbol": "EVERY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EVERY/logo.svg",
+    "address": "0x9aFa9999e45484Adf5d8EED8D9Dfe0693BACd838",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "EVERY",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "Everyworld",
+    "symbol": "EVERY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EVERY/logo.svg",
+    "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "EVERY",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "GENOME",
+    "symbol": "GENOME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
+    "address": "0x7AE4f8885f6cFa41a692cb9DA3789cfa6A83e9f2",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "GENOME",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "GENOME",
+    "symbol": "GENOME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
+    "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "GENOME",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18,
+    "logoURI": "https://www.aavegotchi.com/images/ghst.svg",
+    "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "GHST",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18,
+    "logoURI": "https://www.aavegotchi.com/images/ghst.svg",
+    "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "GHST",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "MONKE",
+    "symbol": "MONKE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
+    "address": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "MONKE",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "MONKE",
+    "symbol": "MONKE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
+    "address": "0xe8740ff403060dae99c63a684e0dfe3eaa97e9bc",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "MONKE",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "SoftDAO",
+    "symbol": "SOFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png",
+    "address": "0xfE3B138879D6d0555bE4132DcfE6E7424E257A2E",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "SOFT",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "SoftDAO",
+    "symbol": "SOFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png",
+    "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "SOFT",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "STPT Network",
+    "symbol": "STPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8713/standard/STP.png",
+    "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "STPT",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "STPT Network",
+    "symbol": "STPT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/8713/standard/STP.png",
+    "address": "0x4489d0a0345eCB216A3994De780d453c7fA6312C",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "STPT",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "The Secret Coin",
+    "symbol": "TSC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/65c3225aa42e2595dc8a5732bef07725b8b32fa4/data/TSC/logo.png",
+    "address": "0x617eAD3c59Ded3ea1BB17881118Cf310144b450f",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "TSC",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "The Secret Coin",
+    "symbol": "TSC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/65c3225aa42e2595dc8a5732bef07725b8b32fa4/data/TSC/logo.png",
+    "address": "0xfee5178bb6ad41e7d5bbc7f6145feb27460dd1ed",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "TSC",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  },
+  {
+    "name": "ZynCoin",
+    "symbol": "ZYN",
+    "decimals": 18,
+    "logoURI": "https://svgshare.com/i/14yn.svg",
+    "address": "0x58cB30368ceB2d194740b144EAB4c2da8a917Dcb",
+    "chainId": 1,
+    "extensions": {
+      "opTokenId": "ZYN",
+      "standardBridgeAddresses": {
+        "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+      }
+    }
+  },
+  {
+    "name": "ZynCoin",
+    "symbol": "ZYN",
+    "decimals": 18,
+    "logoURI": "https://svgshare.com/i/14yn.svg",
+    "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
+    "chainId": 8453,
+    "extensions": {
+      "opTokenId": "ZYN",
+      "standardBridgeAddresses": {
+        "1": "0x4200000000000000000000000000000000000010"
+      }
+    }
   }
-}
+]

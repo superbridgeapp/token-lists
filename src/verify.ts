@@ -70,6 +70,11 @@ async function main() {
           );
         }
 
+        const baseClient = createPublicClient({
+          chain: getViemChain(baseChainId[0]),
+          transport: http(),
+        });
+
         const BASE_BRIDGE = await client
           .readContract({
             abi: StandardBridgeAbi,
@@ -82,7 +87,7 @@ async function main() {
         }
         console.log("BASE_BRIDGE", BASE_BRIDGE);
 
-        const REMOTE_BRIDGE = await client
+        const REMOTE_BRIDGE = await baseClient
           .readContract({
             abi: StandardBridgeAbi,
             functionName: "OTHER_BRIDGE",

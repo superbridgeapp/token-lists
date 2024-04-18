@@ -1,0 +1,11 @@
+{
+  "name": "HuntToken",
+  "symbol": "HUNT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/HUNT/logo.svg",
+  "opTokenId": "HUNT",
+  "addresses": {
+    "1": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+    "8453": "0x37f0c2915CeCC7e977183B8543Fc0864d03E064C"
+  }
+}

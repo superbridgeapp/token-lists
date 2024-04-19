@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-16T19:05:49.156Z",
+  "timestamp": "2024-04-19T21:37:32.527Z",
   "tokens": [
     {
       "name": "Reach",
@@ -171,6 +171,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "GHST",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "HuntToken",
+      "symbol": "HUNT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/HUNT/logo.svg",
+      "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "HUNT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "HuntToken",
+      "symbol": "HUNT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/HUNT/logo.svg",
+      "address": "0x37f0c2915CeCC7e977183B8543Fc0864d03E064C",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "HUNT",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

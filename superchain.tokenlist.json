@@ -315,6 +315,62 @@
           "1": "0x4200000000000000000000000000000000000010"
         }
       }
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chanId": 1,
+      "extensions": {
+        "opTokenId": "USDT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "chanId": 8545,
+      "extensions": {
+        "opTokenId": "USDT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "chanId": 1,
+      "extensions": {
+        "opTokenId": "UNI",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
+      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
+      "chanId": 8545,
+      "extensions": {
+        "opTokenId": "UNI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
     }
   ],
   "version": {

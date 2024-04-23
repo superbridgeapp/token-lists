@@ -6,36 +6,8 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-19T21:43:31.762Z",
+  "timestamp": "2024-04-23T17:16:33.221Z",
   "tokens": [
-    {
-      "name": "Reach",
-      "symbol": "$Reach",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
-      "address": "0x8B12BD54CA9B2311960057C8F3C88013e79316E3",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "$Reach",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Reach",
-      "symbol": "$Reach",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33776/standard/reach.jpeg",
-      "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "$Reach",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
     {
       "name": "Wrapped MistCoin",
       "symbol": "$WMC",

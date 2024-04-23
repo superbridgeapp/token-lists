@@ -6,6 +6,7 @@ import * as viemChains from "viem/chains";
 
 import { OptimismMintableERC20Abi } from "./abis/OptimismMintableERC20";
 import { StandardBridgeAbi } from "./abis/StandardBridge";
+import { L2StandardERC20Abi } from "./abis/L2StandardERC20";
 
 interface SuperchainToken {
   chainId: number;
@@ -51,6 +52,8 @@ async function main() {
     const data: TokenData = JSON.parse(
       readFileSync(join(__dirname, "..", "data", path, "data.json")).toString()
     );
+
+    console.log(path);
 
     const tokens: SuperchainToken[] = [];
 
@@ -118,7 +121,7 @@ async function main() {
         transport: http(),
       });
 
-      const [BRIDGE, REMOTE_TOKEN] = await Promise.all([
+      const [BRIDGE, REMOTE_TOKEN, l2Bridge, l1Token] = await Promise.all([
         client
           .readContract({
             abi: OptimismMintableERC20Abi,
@@ -133,12 +136,29 @@ async function main() {
             address: address as Address,
           })
           .catch(() => null),
+        client
+          .readContract({
+            abi: L2StandardERC20Abi,
+            functionName: "l2Bridge",
+            address: address as Address,
+          })
+          .catch(() => null),
+        client
+          .readContract({
+            abi: L2StandardERC20Abi,
+            functionName: "l1Token",
+            address: address as Address,
+          })
+          .catch(() => null),
       ]);
 
+      const localBridge = BRIDGE || l2Bridge;
+      const remoteToken = REMOTE_TOKEN || l1Token;
+
       // mintable
-      if (BRIDGE && REMOTE_TOKEN) {
+      if (localBridge && remoteToken) {
         const baseChainId = Object.entries(data.addresses).find(
-          ([_, address]) => isAddressEqual(address as Address, REMOTE_TOKEN)
+          ([_, address]) => isAddressEqual(address as Address, remoteToken)
         );
         if (!baseChainId) {
           throw new Error(`No baseChainId found for ${data.symbol}:${chainId}`);
@@ -149,7 +169,7 @@ async function main() {
             .readContract({
               abi: StandardBridgeAbi,
               functionName: "OTHER_BRIDGE",
-              address: BRIDGE,
+              address: localBridge,
             })
             .catch(() => null),
         ]);
@@ -158,13 +178,13 @@ async function main() {
         }
 
         addToken({
-          baseAddress: REMOTE_TOKEN,
+          baseAddress: remoteToken,
           baseBridgeAddress: OTHER_BRIDGE,
           baseChainId: parseInt(baseChainId[0]),
 
           mintableChainId: parseInt(chainId),
           mintableAddress: address,
-          mintableBridgeAddress: BRIDGE,
+          mintableBridgeAddress: localBridge,
         });
       }
     }

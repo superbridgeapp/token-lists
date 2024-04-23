@@ -5,6 +5,7 @@ import { isAddressEqual, isAddress } from "viem/utils";
 
 import { OptimismMintableERC20Abi } from "./abis/OptimismMintableERC20";
 import { StandardBridgeAbi } from "./abis/StandardBridge";
+import { L2StandardERC20Abi } from "./abis/L2StandardERC20";
 import { getViemChain, TokenData } from "./utils";
 
 async function main() {
@@ -37,7 +38,7 @@ async function main() {
         throw new Error(`Invalid address for chainId ${chainId}`);
       }
 
-      const [BRIDGE, REMOTE_TOKEN] = await Promise.all([
+      const [BRIDGE, REMOTE_TOKEN, l2Bridge, l1Token] = await Promise.all([
         client
           .readContract({
             abi: OptimismMintableERC20Abi,
@@ -52,17 +53,34 @@ async function main() {
             address: address as Address,
           })
           .catch(() => null),
+        client
+          .readContract({
+            abi: L2StandardERC20Abi,
+            functionName: "l2Bridge",
+            address: address as Address,
+          })
+          .catch(() => null),
+        client
+          .readContract({
+            abi: L2StandardERC20Abi,
+            functionName: "l1Token",
+            address: address as Address,
+          })
+          .catch(() => null),
       ]);
       console.log("BRIDGE", BRIDGE);
       console.log("REMOTE_TOKEN", REMOTE_TOKEN);
 
+      const localBridge = BRIDGE || l2Bridge;
+      const remoteToken = REMOTE_TOKEN || l1Token;
+
       // mintable
-      if (BRIDGE && REMOTE_TOKEN) {
+      if (localBridge && remoteToken) {
         mintable = true;
         console.log(chainId, "is mintable");
 
         const baseChainId = Object.entries(data!.addresses).find(
-          ([_, address]) => isAddressEqual(address as Address, REMOTE_TOKEN)
+          ([_, address]) => isAddressEqual(address as Address, remoteToken)
         );
         if (!baseChainId) {
           throw new Error(
@@ -81,7 +99,7 @@ async function main() {
           .readContract({
             abi: StandardBridgeAbi,
             functionName: "OTHER_BRIDGE",
-            address: BRIDGE,
+            address: localBridge,
           })
           .catch(() => null);
         if (!BASE_BRIDGE) {
@@ -101,7 +119,7 @@ async function main() {
         if (!REMOTE_BRIDGE) {
           throw new Error("REMOTE_BRIDGE not found");
         }
-        if (!isAddressEqual(REMOTE_BRIDGE, BRIDGE)) {
+        if (!isAddressEqual(REMOTE_BRIDGE, localBridge)) {
           throw new Error("Bridge addresses do not match");
         }
       } else {

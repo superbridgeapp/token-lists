@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-24T19:45:18.110Z",
+  "timestamp": "2024-04-28T20:55:28.799Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -205,6 +205,34 @@
       }
     },
     {
+      "name": "Independence Token",
+      "symbol": "RFKJ",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
+      "address": "0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "RFKJ",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Independence Token",
+      "symbol": "RFKJ",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
+      "address": "0x54a65B16D18527160FAFC6FCfEBAeD47c2976dfA",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "RFKJ",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "SoftDAO",
       "symbol": "SOFT",
       "decimals": 18,
@@ -377,34 +405,6 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "UNI",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "USDT",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
-      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "USDT",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

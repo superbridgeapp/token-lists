@@ -1,0 +1,11 @@
+{
+  "name": "Independence Token",
+  "symbol": "RFKJ",
+  "decimals": 18,
+  "logoURI": "https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
+  "opTokenId": "RFKJ",
+  "addresses": {
+    "1": "0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
+    "8453": "0x54a65B16D18527160FAFC6FCfEBAeD47c2976dfA"
+  }
+}

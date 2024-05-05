@@ -1,0 +1,11 @@
+{
+  "name": "Meister USD",
+  "symbol": "MEISTER",
+  "decimals": 6,
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1714935695/migrations/sccjhsbyquv9mi7dm2pv.svg",
+  "opTokenId": "MEISTER",
+  "addresses": {
+    "1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "8453": "0x5dd8447f50b4fa8e25bf70dee8e29dd83f7290c6"
+  }
+}

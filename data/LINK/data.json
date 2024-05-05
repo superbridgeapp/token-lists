@@ -1,0 +1,19 @@
+{
+  "name": "ChainLinkBase",
+  "symbol": "LINKBASE",
+  "decimals": 8,
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1714885054/migrations/ek92btme34qvovt2gqrw.svg",
+  "opTokenId": "LINK",
+  "addresses": [
+    {
+      "1": {
+        "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
+      }
+    },
+    {
+      "1": {
+        "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
+      }
+    }
+  ]
+}

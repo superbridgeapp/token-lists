@@ -2,8 +2,8 @@
   "name": "TokenABase",
   "symbol": "TOKENABASE",
   "decimals": 8,
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1714885525/migrations/ni6fv8nwqvkckx5l0mh2.svg",
-  "opTokenId": "TokenA",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1714888413/migrations/w1wkfqgk6faipghcqwuk.svg",
+  "opTokenId": "TOKENABASE",
   "addresses": {
     "1": "0x779877A7B0D9E8603169DdbD7836e478b4624787",
     "8453": "0x779877A7B0D9E8603169DdbD7836e478b4624788"

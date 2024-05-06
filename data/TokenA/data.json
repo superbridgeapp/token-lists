@@ -1,11 +1,12 @@
 {
-  "name": "ChainLinkMode",
-  "symbol": "LINKMode",
-  "decimals": 18,
+  "name": "TokenABase",
+  "symbol": "TOKENABASE",
+  "decimals": 8,
   "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1714895159/migrations/qmkizdhkbyrcxrztzsfz.svg",
-  "opTokenId": "LINKMode",
+  "opTokenId": "TOKENABASE",
   "addresses": {
     "1": "0x779877A7B0D9E8603169DdbD7836e478b4624787",
-    "1000": "0xf0F161fDA2712DB8b566946122a5af183995e2eD"
+    "1000": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+    "8453": "0x779877A7B0D9E8603169DdbD7836e478b4624788"
   }
 }

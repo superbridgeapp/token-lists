@@ -1,0 +1,13 @@
+{
+  "name": "Contentos",
+  "symbol": "COS",
+  "decimals": 18,
+  "description": "test",
+  "twitter": "twitter.com/meisterjustice",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715201482/migrations/xgsryrpiyyeft5aikmsf.svg",
+  "opTokenId": "COS",
+  "addresses": {
+    "1": "0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc",
+    "34443": "0x589891a198195061cb8ad1a75357a3b7dbadd7bc"
+  }
+}

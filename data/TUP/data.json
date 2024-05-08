@@ -1,0 +1,13 @@
+{
+  "name": "Tenup",
+  "symbol": "TUP",
+  "decimals": 18,
+  "description": "test",
+  "twitter": "twitter.com/meisterjustice",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715202051/migrations/fshtaxnpaywpzpbgjvy0.svg",
+  "opTokenId": "TUP",
+  "addresses": {
+    "1": "0x7714f320Adca62B149df2579361AfEC729c5FE6A",
+    "34443": "0x0aa6fd412627124c98d66d0c986b67138b8b95e6"
+  }
+}

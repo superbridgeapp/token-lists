@@ -1,11 +1,11 @@
 {
-    "name": "DODO",
-    "symbol": "DODO",
+    "name": "Uniswap",
+    "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://drive.google.com/file/d/1pMoJNfHF2CbiNiLyAmLQ1P_geqLkvZh0/view?usp=drive_link",
-    "opTokenId": "DODO",
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
+    "opTokenId": "UNI",
     "addresses": {
-        "1": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
-        "8453": "0x2b31294d12c4483a6dcd1d34cff219c946dd8f7f"
+        "1": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "8453": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83"
     }
 }

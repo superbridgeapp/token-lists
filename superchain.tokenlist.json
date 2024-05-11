@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-09T03:56:04.130Z",
+  "timestamp": "2024-05-11T01:38:53.557Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -68,7 +68,7 @@
       "name": "DODO",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://drive.google.com/file/d/1pMoJNfHF2CbiNiLyAmLQ1P_geqLkvZh0/view?usp=drive_link",
+      "logoURI": "https://storage.googleapis.com/dodo-media-staging/upload_img_3309188_20240510025201015.svg",
       "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
       "chainId": 1,
       "extensions": {
@@ -82,7 +82,7 @@
       "name": "DODO",
       "symbol": "DODO",
       "decimals": 18,
-      "logoURI": "https://drive.google.com/file/d/1pMoJNfHF2CbiNiLyAmLQ1P_geqLkvZh0/view?usp=drive_link",
+      "logoURI": "https://storage.googleapis.com/dodo-media-staging/upload_img_3309188_20240510025201015.svg",
       "address": "0x2b31294d12c4483a6dcd1d34cff219c946dd8f7f",
       "chainId": 8453,
       "extensions": {

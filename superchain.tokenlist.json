@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-11T01:38:53.557Z",
+  "timestamp": "2024-05-13T11:45:58.644Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -311,6 +311,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "STPT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Tokenomy",
+      "symbol": "TEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Web3Prof/ethereum-optimism.github.io/master/data/TEN/logo.svg",
+      "address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "TEN",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Tokenomy",
+      "symbol": "TEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Web3Prof/ethereum-optimism.github.io/master/data/TEN/logo.svg",
+      "address": "0x4fb9b20dafe45d91ae287f2e07b2e79709308178",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "TEN",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

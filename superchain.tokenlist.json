@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-13T11:45:58.644Z",
+  "timestamp": "2024-05-13T15:33:22.845Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -59,6 +59,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "APU",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Dimension Token",
+      "symbol": "DMS",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715612949/migrations/kubrmnilnrw10ktmzsej.svg",
+      "address": "0x217f218fe9eB1Ef180FA4Dae75ebA6Bdf568084a",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "DMS",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Dimension Token",
+      "symbol": "DMS",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715612949/migrations/kubrmnilnrw10ktmzsej.svg",
+      "address": "0x3f46463323889050d2da0f2267ab3540f0d5e05b",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "DMS",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

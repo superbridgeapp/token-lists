@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-13T15:33:22.845Z",
+  "timestamp": "2024-05-17T21:40:03.049Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -59,6 +59,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "APU",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "AstroPepeX",
+      "symbol": "APX",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715870790/migrations/eqvcmyaotau4lzachatr.svg",
+      "address": "0xed4e879087ebD0e8A77d66870012B5e0dffd0Fa4",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "APX",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "AstroPepeX",
+      "symbol": "APX",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715870790/migrations/eqvcmyaotau4lzachatr.svg",
+      "address": "0xcacf1ca03983ce6c7e235fb20c70acc70ed13509",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "APX",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -255,6 +283,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "MONKE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "MANTRA",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715593020/migrations/qecwk9njslyvuyt8va1j.svg",
+      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "OM",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "MANTRA",
+      "symbol": "OM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715593020/migrations/qecwk9njslyvuyt8va1j.svg",
+      "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "OM",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

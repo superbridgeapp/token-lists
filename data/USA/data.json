@@ -1,0 +1,14 @@
+{
+  "name": "USA Token",
+  "symbol": "USA",
+  "decimals": 18,
+  "description": "DEDPRZ is an online casino that is looking to disrupt the Gamblefi space by building a community around a sustainable business. $USA is the primary utility token for the DEDPRZ ecosystem and will be used for staking NFTs, buybacks, burning, and rewarding community.",
+  "website": "https://info.dedprz.com/",
+  "twitter": "https://x.com/_dedprz",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716268332/migrations/cigba7eqnq2veo55o82d.svg",
+  "opTokenId": "USA",
+  "addresses": {
+    "1": "0x4FFe9CC172527DF1E40D0b2EfE1e9F05884A13dA",
+    "8453": "0xd54eecfca8194cdf750033b50b559a120834990d"
+  }
+}

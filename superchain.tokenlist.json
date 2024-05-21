@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-17T21:40:03.049Z",
+  "timestamp": "2024-05-21T10:35:09.071Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -545,6 +545,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "UNI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "USA Token",
+      "symbol": "USA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716268332/migrations/cigba7eqnq2veo55o82d.svg",
+      "address": "0x4FFe9CC172527DF1E40D0b2EfE1e9F05884A13dA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "USA",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "USA Token",
+      "symbol": "USA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716268332/migrations/cigba7eqnq2veo55o82d.svg",
+      "address": "0xd54eecfca8194cdf750033b50b559a120834990d",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "USA",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -1,0 +1,14 @@
+{
+  "name": "Gooch",
+  "symbol": "GCH",
+  "decimals": 18,
+  "description": "$GCH, the peoples gooch",
+  "website": "Goochtoken.xyz",
+  "twitter": "https://twitter.com/TokenGooch",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716423338/migrations/nvl6huoqhvfj4hdbxkog.svg",
+  "opTokenId": "GCH",
+  "addresses": {
+    "1": "0x42379293f2b7a5b379abf54329a8CfdD0E518a9B",
+    "8453": "0x74b32f58b65095e72b49a5d0fcdc5bfab6168d17"
+  }
+}

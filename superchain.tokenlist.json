@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-23T08:03:55.295Z",
+  "timestamp": "2024-05-23T08:11:42.050Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -171,6 +171,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EVERY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Gooch",
+      "symbol": "GCH",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716423338/migrations/nvl6huoqhvfj4hdbxkog.svg",
+      "address": "0x42379293f2b7a5b379abf54329a8CfdD0E518a9B",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "GCH",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Gooch",
+      "symbol": "GCH",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716423338/migrations/nvl6huoqhvfj4hdbxkog.svg",
+      "address": "0x74b32f58b65095e72b49a5d0fcdc5bfab6168d17",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "GCH",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

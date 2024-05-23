@@ -1,0 +1,14 @@
+{
+  "name": "Collab.Land",
+  "symbol": "COLLAB",
+  "decimals": 18,
+  "description": "Collab.Land is the original full-service community management tool that curates membership based on tokens.",
+  "website": "https://www.collab.land/",
+  "twitter": "https://twitter.com/Collab_Land_",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716476915/migrations/h9v5pxtzagfia19tfxuz.svg",
+  "opTokenId": "COLLAB",
+  "addresses": {
+    "1": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+    "8453": "0x7e55147868a6a81b7950d6cbe0cc5e20f4e3080f"
+  }
+}

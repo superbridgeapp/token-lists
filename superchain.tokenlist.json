@@ -6,17 +6,17 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-23T08:01:45.324Z",
+  "timestamp": "2024-05-23T08:03:55.295Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
-      "symbol": "$WMC",
+      "symbol": "WMC",
       "decimals": 2,
       "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
       "address": "0x7Fd4d7737597E7b4ee22AcbF8D94362343ae0a79",
       "chainId": 1,
       "extensions": {
-        "opTokenId": "$WMC",
+        "opTokenId": "WMC",
         "standardBridgeAddresses": {
           "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
         }
@@ -24,13 +24,13 @@
     },
     {
       "name": "Wrapped MistCoin",
-      "symbol": "$WMC",
+      "symbol": "WMC",
       "decimals": 2,
       "logoURI": "https://static.wixstatic.com/media/d31aae_e982ceb5d49f4431b8834097e31efb06~mv2.png/v1/fill/w_601,h_391,al_c,lg_1,q_85,enc_auto/MIST-min-removebg-preview.png",
       "address": "0x3d2EbA645c44BBD32A34b7c017667711eb5b173C",
       "chainId": 8453,
       "extensions": {
-        "opTokenId": "$WMC",
+        "opTokenId": "WMC",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

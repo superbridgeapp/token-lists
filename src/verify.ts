@@ -23,6 +23,16 @@ async function main() {
       throw new Error(`Invalid JSON at ${path}`);
     }
 
+    const missing: string[] = [];
+    if (!data?.name) missing.push("name");
+    if (!data?.symbol) missing.push("symbol");
+    if (!data?.decimals) missing.push("decimals");
+    if (!data?.logoURI) missing.push("logoURI");
+    if (!data?.opTokenId) missing.push("opTokenId");
+    if (missing.length) {
+      throw new Error(`Missing properties [${missing.join(", ")}] in data`);
+    }
+
     console.log("Verifying", data!.name);
 
     let mintable = false;

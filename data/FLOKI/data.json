@@ -1,0 +1,14 @@
+{
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "description": "Floki on Mode",
+  "website": "https://floki.com/",
+  "twitter": "https://twitter.com/realflokiinu",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716543060/migrations/dgqzgvcvpjtwhe9uicit.svg",
+  "opTokenId": "FLOKI",
+  "addresses": {
+    "1": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "34443": "0x11e93fd88b73480ddc1ea3b7d9acbdaba6042107"
+  }
+}

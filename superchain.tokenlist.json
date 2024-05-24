@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-23T08:11:42.050Z",
+  "timestamp": "2024-05-24T12:03:23.041Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -87,6 +87,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "APX",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716476915/migrations/h9v5pxtzagfia19tfxuz.svg",
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "COLLAB",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716476915/migrations/h9v5pxtzagfia19tfxuz.svg",
+      "address": "0x7e55147868a6a81b7950d6cbe0cc5e20f4e3080f",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "COLLAB",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

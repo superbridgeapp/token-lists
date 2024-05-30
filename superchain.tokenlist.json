@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-27T13:11:28.074Z",
+  "timestamp": "2024-05-30T14:19:59.983Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -311,6 +311,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "HUNT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Kinetix Finance",
+      "symbol": "KAI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/kinetix/image/upload/v1694694179/website-assets/coins/kfi.svg",
+      "address": "0x0bBCEfA5F3630Cae34842cb9D9b36BC0d4257a0d",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "KAI",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Kinetix Finance",
+      "symbol": "KAI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/kinetix/image/upload/v1694694179/website-assets/coins/kfi.svg",
+      "address": "0x3c3860d89b81c91974Fc1f8A41aeEef604c17058",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "KAI",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

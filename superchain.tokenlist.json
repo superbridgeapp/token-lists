@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-30T14:19:59.983Z",
+  "timestamp": "2024-05-31T21:58:41.799Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -115,6 +115,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "COLLAB",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10775/standard/COMP.png?1696510737",
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "COMP",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+        }
+      }
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10775/standard/COMP.png?1696510737",
+      "address": "0x7e7d4467112689329f7E06571eD0E8CbAd4910eE",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "COMP",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

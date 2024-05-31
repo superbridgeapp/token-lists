@@ -1,0 +1,14 @@
+{
+  "name": "Compound",
+  "symbol": "COMP",
+  "decimals": 18,
+  "description": "Compound III is an EVM compatible protocol that enables supplying of crypto assets as collateral in order to borrow the base asset. Accounts can also earn interest by supplying the base asset to the protocol.",
+  "website": "https://compound.finance/",
+  "twitter": "https://twitter.com/compgovernance",
+  "logoURI": "https://assets.coingecko.com/coins/images/10775/standard/COMP.png?1696510737",
+  "opTokenId": "COMP",
+  "addresses": {
+    "1": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "10": "0x7e7d4467112689329f7E06571eD0E8CbAd4910eE"
+  }
+}

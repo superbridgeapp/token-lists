@@ -1,0 +1,14 @@
+{
+  "name": "Ondo",
+  "symbol": "ONDO",
+  "decimals": 18,
+  "description": "ONDO on Base",
+  "website": "https://ondo.foundation/",
+  "twitter": "https://twitter.com/OndoFoundation",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1717214539/migrations/sto55gdvrgud4qspepem.svg",
+  "opTokenId": "ONDO",
+  "addresses": {
+    "1": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "8453": "0xd38d3358c6c397e92c25961405aa2589d7e124ad"
+  }
+}

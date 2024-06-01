@@ -1,0 +1,14 @@
+{
+  "name": "Trace Token",
+  "symbol": "TRAC",
+  "decimals": 18,
+  "description": "TRAC on Base",
+  "website": "https://origintrail.io/",
+  "twitter": "https://twitter.com/origin_trail",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1717217593/migrations/r2vzrpw4ni4dvxswrzb6.svg",
+  "opTokenId": "TRAC",
+  "addresses": {
+    "1": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+    "8453": "0x479067cf3331c0816bf3278f746b3ab0d164b27b"
+  }
+}

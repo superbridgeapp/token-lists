@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-05-31T21:58:41.799Z",
+  "timestamp": "2024-06-08T11:27:59.868Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -451,6 +451,49 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "RFKJ",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Smart Layer Network Token",
+      "symbol": "SLN",
+      "decimals": 18,
+      "logoURI": "https://www.smartlayer.network/icon-white.png",
+      "address": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SLN",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Smart Layer Network Token",
+      "symbol": "SLN",
+      "decimals": 18,
+      "logoURI": "https://www.smartlayer.network/icon-white.png",
+      "address": "0xbCB49FcB41899E31e442a4D7439964966e0C9B28",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "SLN",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Smart Layer Network Token",
+      "symbol": "SLN",
+      "decimals": 18,
+      "logoURI": "https://www.smartlayer.network/icon-white.png",
+      "address": "0xef0b105b4f2ce61d2a7ae62d03b1f4cb6c4fbeec",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SLN",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

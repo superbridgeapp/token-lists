@@ -1,0 +1,15 @@
+{
+	"name": "Smart Layer Network Token",
+	"symbol": "SLN",
+	"decimals": 18,
+	"description": "Smart Layer brings Smart Tokens ( Executable Tokens and NFTs ) enabled by ERC-5169 and TokenScript. SLN is Smart Layer Network's primary token",
+	"logoURI": "https://www.smartlayer.network/icon-white.png",
+	"website": "https://smartlayer.network",
+	"twitter": "@SmartLayer",
+	"opTokenId": "SLN",
+	"addresses": {
+		"1": "0xDb82c0d91E057E05600C8F8dc836bEb41da6df14",
+		"10": "0xbCB49FcB41899E31e442a4D7439964966e0C9B28",
+		"8453": "0xef0b105b4f2ce61d2a7ae62d03b1f4cb6c4fbeec"
+	}
+}

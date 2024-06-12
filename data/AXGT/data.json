@@ -1,0 +1,10 @@
+{
+  "name": "AxonDAO Governance Token",
+  "symbol": "AXGT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/AXGT/logo.svg",
+  "addresses": {
+    "1": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
+    "8453": "0x9B700B043e9587ddE9a0c29A9483e2F8FA450d54"
+  }
+}

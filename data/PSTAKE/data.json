@@ -1,0 +1,12 @@
+{
+    "name": "pSTAKE Finance",
+    "symbol": "PSTAKE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+    "opTokenId": "PSTAKE",
+    "addresses": {
+      "1": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "10": "0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD",
+      "8453": "0x38815A4455921667d673B4cb3d48F0383eE93400"
+    }
+}

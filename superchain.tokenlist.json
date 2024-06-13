@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-08T11:27:59.868Z",
+  "timestamp": "2024-06-13T01:36:12.478Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -423,6 +423,49 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "OM",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "pSTAKE Finance",
+      "symbol": "PSTAKE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "PSTAKE",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "pSTAKE Finance",
+      "symbol": "PSTAKE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "address": "0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "PSTAKE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "pSTAKE Finance",
+      "symbol": "PSTAKE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "address": "0x38815A4455921667d673B4cb3d48F0383eE93400",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "PSTAKE",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

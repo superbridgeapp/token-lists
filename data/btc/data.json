@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin",
+  "symbol": "btc",
+  "decimals": 8,
+  "description": "A meme coin almost as old as Ethereum itself.\r\n\r\nDeployed November 2015.",
+  "website": "https://www.btconeth.com/",
+  "twitter": "https://twitter.com/btc_on_eth",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+  "opTokenId": "btc",
+  "addresses": {
+    "1": "0xc0bc84e95864bdfdcd1ccfb8a3aa522e79ca1410",
+    "8453": "0xcea0be764485f3e22aa843dfff3d189f5af6a361"
+  }
+}

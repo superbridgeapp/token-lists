@@ -1,0 +1,14 @@
+{
+  "name": "Onyxcoin",
+  "symbol": "XCN",
+  "decimals": 18,
+  "description": "Onyxcoin (XCN) is a decentralized digital asset that operates on the Ethereum blockchain.",
+  "website": "https://onyx.org",
+  "twitter": "https://x.com/OnyxProtocol",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719103381/migrations/jnrfinseaiuy47o67pnj.svg",
+  "opTokenId": "XCN",
+  "addresses": {
+    "1": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+    "8453": "0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c"
+  }
+}

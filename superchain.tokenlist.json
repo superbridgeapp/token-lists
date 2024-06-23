@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-13T01:36:12.478Z",
+  "timestamp": "2024-06-23T03:56:10.041Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -87,6 +87,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "APX",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "AxonDAO Governance Token",
+      "symbol": "AXGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/AXGT/logo.svg",
+      "address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "AxonDAO Governance Token",
+      "symbol": "AXGT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/AXGT/logo.svg",
+      "address": "0x9B700B043e9587ddE9a0c29A9483e2F8FA450d54",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "AXGT",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -804,6 +832,62 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "USDT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "WEXO",
+      "symbol": "WEXO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718370025/migrations/tbtih4vvvwdqevlb0cjn.svg",
+      "address": "0xf31698DDAd0d11160Fe85c500397A470CD3d492E",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "WEXO",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "WEXO",
+      "symbol": "WEXO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718370025/migrations/tbtih4vvvwdqevlb0cjn.svg",
+      "address": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "WEXO",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719103381/migrations/jnrfinseaiuy47o67pnj.svg",
+      "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "XCN",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719103381/migrations/jnrfinseaiuy47o67pnj.svg",
+      "address": "0x9c632e6aaa3ea73f91554f8a3cb2ed2f29605e0c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "XCN",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -1,0 +1,13 @@
+{
+  "name": "Page",
+  "symbol": "PAGE",
+  "decimals": 8,
+  "description": "$PAGE is the native currency and governance token of the PageDAO Ecosystem",
+  "twitter": "https://twitter.com/page_dao",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
+  "opTokenId": "PAGE",
+  "addresses": {
+    "1": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e",
+    "8453": "0xc4730f86d1f86ce0712a7b17ee919db7defad7fe"
+  }
+}

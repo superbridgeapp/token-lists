@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-23T03:56:10.041Z",
+  "timestamp": "2024-06-28T17:59:45.361Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -451,6 +451,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "OM",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Page",
+      "symbol": "PAGE",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
+      "address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "PAGE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Page",
+      "symbol": "PAGE",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
+      "address": "0xc4730f86d1f86ce0712a7b17ee919db7defad7fe",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "PAGE",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-28T17:59:45.361Z",
+  "timestamp": "2024-06-28T19:30:52.871Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -944,6 +944,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "ZYN",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "bitcoin",
+      "symbol": "btc",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+      "address": "0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "btc",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "bitcoin",
+      "symbol": "btc",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+      "address": "0xcea0be764485f3e22aa843dfff3d189f5af6a361",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "btc",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

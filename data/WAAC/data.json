@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped AyeAyeCoin",
+  "symbol": "WAAC",
+  "decimals": 0,
+  "description": "AyeAyeCoin is the first collectible and meme token deployed in Ethereum (20th August 2015, three weeks after Ethereum mainnet launch). \r\n",
+  "website": "https://ayeayecoin.xyz/",
+  "twitter": "https://x.com/AyeAyeCoin2015",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719560495/migrations/omlitwbzh5axkadkx2qp.svg",
+  "opTokenId": "WAAC",
+  "addresses": {
+    "1": "0x30ae41d5f9988d359c733232c6c693c0e645c77e",
+    "8453": "0x0f3091255dfae02b540cd601ee25e6550759c310"
+  }
+}

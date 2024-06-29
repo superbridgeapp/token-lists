@@ -1,0 +1,14 @@
+{
+  "name": "Cardstack",
+  "symbol": "CARD",
+  "decimals": 18,
+  "description": "Cardstack is a composable open software ecosystem built on the foundation of shared code, shared data, and shared revenue. CARD is the governance token for the community building software for an open world. ",
+  "website": "https://cardstack.com/",
+  "twitter": "https://x.com/cardstack",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719701777/migrations/ucl6prrj3kopfiv5akfo.svg",
+  "opTokenId": "CARD",
+  "addresses": {
+    "1": "0x954b890704693af242613edEf1B603825afcD708",
+    "8453": "0x620dde9fffc63aff05140f53a3c8b6e31dc93374"
+  }
+}

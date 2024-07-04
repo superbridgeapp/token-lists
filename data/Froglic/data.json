@@ -1,0 +1,14 @@
+{
+  "name": "Pink Hood Froglicker",
+  "symbol": "Froglic",
+  "decimals": 18,
+  "description": "Welcome to the world of $froglic aka Pink Hood Froglicker, the Cutest Frog on ETH (& Soon BASE too)! \r\n\r\nInspired by the renowned meme artist Matt Furie, creator of Pepe, $froglic takes a leap directly from his Pink Hood Froglicker character in the iconic 1k The Hedz Collection. \r\n\r\nWe're here to revolutionize the crypto space with the First-Ever Cute Frog Memecoin. Move over dogs and cats—there's a new, more adorable contender in town, and this mfer is ready to leap to the moon! ",
+  "website": "https://www.froglic.io/",
+  "twitter": "https://x.com/FroglicCoin",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
+  "opTokenId": "Froglic",
+  "addresses": {
+    "1": "0x4abd5745f326932b1b673bfa592a20d7bb6bc455",
+    "8453": "0x0dd66db0f5c7ec8a4547338a0072fb8b64278c0c"
+  }
+}

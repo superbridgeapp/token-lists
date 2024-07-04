@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-28T19:30:52.871Z",
+  "timestamp": "2024-07-04T15:05:01.093Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -115,6 +115,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Cardstack",
+      "symbol": "CARD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719701777/migrations/ucl6prrj3kopfiv5akfo.svg",
+      "address": "0x954b890704693af242613edEf1B603825afcD708",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "CARD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Cardstack",
+      "symbol": "CARD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719701777/migrations/ucl6prrj3kopfiv5akfo.svg",
+      "address": "0x620dde9fffc63aff05140f53a3c8b6e31dc93374",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "CARD",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -255,6 +283,62 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EVERY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Finance.Vote Token",
+      "symbol": "FVT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
+      "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FVT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Finance.Vote Token",
+      "symbol": "FVT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
+      "address": "0x6b37f4ad0022bbe32c21829fa40fdaecad8c8d10",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "FVT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Pink Hood Froglicker",
+      "symbol": "Froglic",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
+      "address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "Froglic",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Pink Hood Froglicker",
+      "symbol": "Froglic",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
+      "address": "0x0dd66db0f5c7ec8a4547338a0072fb8b64278c0c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "Froglic",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

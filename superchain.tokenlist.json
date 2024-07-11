@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-04T15:05:01.093Z",
+  "timestamp": "2024-07-11T00:29:49.513Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -31,6 +31,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "WMC",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "AlexMasmej",
+      "symbol": "ALEX",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720652213/migrations/ghvqvlwgkyyquitrm21y.svg",
+      "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "ALEX",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "AlexMasmej",
+      "symbol": "ALEX",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720652213/migrations/ghvqvlwgkyyquitrm21y.svg",
+      "address": "0x3a9fa5027e3c7ebe2318ce2b67dd3b22c6015cd8",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "ALEX",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

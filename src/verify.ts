@@ -26,7 +26,7 @@ async function main() {
     const missing: string[] = [];
     if (!data?.name) missing.push("name");
     if (!data?.symbol) missing.push("symbol");
-    if (!data?.decimals) missing.push("decimals");
+    if (typeof data?.decimals === "undefined") missing.push("decimals");
     if (!data?.logoURI) missing.push("logoURI");
     if (!data?.opTokenId) missing.push("opTokenId");
     if (missing.length) {

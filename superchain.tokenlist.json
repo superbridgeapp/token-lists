@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-06-23T03:56:10.041Z",
+  "timestamp": "2024-07-18T15:10:21.501Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -31,6 +31,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "WMC",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "AlexMasmej",
+      "symbol": "ALEX",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720652213/migrations/ghvqvlwgkyyquitrm21y.svg",
+      "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "ALEX",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "AlexMasmej",
+      "symbol": "ALEX",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720652213/migrations/ghvqvlwgkyyquitrm21y.svg",
+      "address": "0x3a9fa5027e3c7ebe2318ce2b67dd3b22c6015cd8",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "ALEX",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -115,6 +143,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Cardstack",
+      "symbol": "CARD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719701777/migrations/ucl6prrj3kopfiv5akfo.svg",
+      "address": "0x954b890704693af242613edEf1B603825afcD708",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "CARD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Cardstack",
+      "symbol": "CARD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719701777/migrations/ucl6prrj3kopfiv5akfo.svg",
+      "address": "0x620dde9fffc63aff05140f53a3c8b6e31dc93374",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "CARD",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -255,6 +311,62 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EVERY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Finance.Vote Token",
+      "symbol": "FVT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
+      "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FVT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Finance.Vote Token",
+      "symbol": "FVT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
+      "address": "0x6b37f4ad0022bbe32c21829fa40fdaecad8c8d10",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "FVT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Pink Hood Froglicker",
+      "symbol": "Froglic",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
+      "address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "Froglic",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Pink Hood Froglicker",
+      "symbol": "Froglic",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
+      "address": "0x0dd66db0f5c7ec8a4547338a0072fb8b64278c0c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "Froglic",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -457,10 +569,38 @@
       }
     },
     {
+      "name": "Page",
+      "symbol": "PAGE",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
+      "address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "PAGE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Page",
+      "symbol": "PAGE",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
+      "address": "0xc4730f86d1f86ce0712a7b17ee919db7defad7fe",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "PAGE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/persistencedotone/persistence-assets/main/pStake.svg",
       "address": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
       "chainId": 1,
       "extensions": {
@@ -475,7 +615,7 @@
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/persistencedotone/persistence-assets/main/pStake.svg",
       "address": "0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD",
       "chainId": 10,
       "extensions": {
@@ -489,7 +629,7 @@
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SmolDapp/tokenAssets/907ff615dedb497f21eee3b152917121a2131e8f/tokens/8453/0x38815a4455921667d673b4cb3d48f0383ee93400/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/persistencedotone/persistence-assets/main/pStake.svg",
       "address": "0x38815A4455921667d673B4cb3d48F0383eE93400",
       "chainId": 8453,
       "extensions": {
@@ -916,6 +1056,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "ZYN",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "bitcoin",
+      "symbol": "btc",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+      "address": "0xC0BC84e95864BdfDCd1CCFB8A3AA522E79Ca1410",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "btc",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "bitcoin",
+      "symbol": "btc",
+      "decimals": 8,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+      "address": "0xcea0be764485f3e22aa843dfff3d189f5af6a361",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "btc",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

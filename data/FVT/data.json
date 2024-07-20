@@ -1,0 +1,14 @@
+{
+  "name": "Finance.Vote Token",
+  "symbol": "FVT",
+  "decimals": 18,
+  "description": "FVT powers a prediction market that uses Chainlink, soul-bound-tokens (SBTs) and quadratic voting",
+  "website": "https://finance.vote/",
+  "twitter": "https://x.com/financedotvote",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
+  "opTokenId": "FVT",
+  "addresses": {
+    "1": "0x45080a6531d671DDFf20DB42f93792a489685e32",
+    "8453": "0x6b37f4ad0022bbe32c21829fa40fdaecad8c8d10"
+  }
+}

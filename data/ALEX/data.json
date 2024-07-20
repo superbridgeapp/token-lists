@@ -1,0 +1,14 @@
+{
+  "name": "AlexMasmej",
+  "symbol": "ALEX",
+  "decimals": 4,
+  "description": "ALEX is the social money of Alex Masmej.",
+  "website": "drakula.app",
+  "twitter": "x.com/alexmasmej",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720652213/migrations/ghvqvlwgkyyquitrm21y.svg",
+  "opTokenId": "ALEX",
+  "addresses": {
+    "1": "0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315",
+    "8453": "0x3a9fa5027e3c7ebe2318ce2b67dd3b22c6015cd8"
+  }
+}

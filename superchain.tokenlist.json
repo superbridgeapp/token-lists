@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-20T10:47:19.614Z",
+  "timestamp": "2024-07-23T14:32:14.100Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -972,6 +972,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "USDT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Wrapped AyeAyeCoin",
+      "symbol": "WAAC",
+      "decimals": 0,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719560495/migrations/omlitwbzh5axkadkx2qp.svg",
+      "address": "0x30aE41D5f9988D359c733232C6c693c0e645C77E",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "WAAC",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Wrapped AyeAyeCoin",
+      "symbol": "WAAC",
+      "decimals": 0,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719560495/migrations/omlitwbzh5axkadkx2qp.svg",
+      "address": "0x0f3091255dfae02b540cd601ee25e6550759c310",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "WAAC",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

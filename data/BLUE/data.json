@@ -1,0 +1,14 @@
+{
+  "name": "Blue Social Token",
+  "symbol": "BLUE",
+  "decimals": 18,
+  "description": "The BLUE Token is the heart of Blue Social, a revolutionary DePIN – Game-Fi – Social-Fi mobile app designed to transform the way people connect and interact. Blue Social harnesses the power of blockchain technology and the innovative Proof-of-Interaction (POI) protocol to reward users for real-life social interactions, making meeting new people fun and rewarding.\r\n\r\nBlue Social addresses a fundamental human need: genuine, in-person social connections. In an era where social media and technology often isolate us, Blue Social bridges the gap by gamifying social interactions. Users earn BLUE Tokens through the Bluetooth Proof-of-Interaction™ model by participating in meaningful engagements, completing social challenges, and fostering connections within their community.\r\n\r\nOur proprietary recommendation engine helps users discover others with shared interests and goals, while our BLE protocol ensures seamless interaction in proximity. The BLUE Token ecosystem supports various utilities, including earning tokens for interactions, unlocking NFT badges, accessing premium features, and redeeming tokens at our marketplace partners.\r\n\r\nThe Blue Social app is designed for scalability and integration with Web3 technologies. Following our successful participation in the Base Buildathon, we have integrated smart contracts, Thirdweb, SuperChain, and React Native components into our platform. The BLUE Token is now live on the BASE Mainnet, allowing users to mine tokens through verified social interactions.\r\n\r\nOur mission is to onboard over 1 billion users onto the blockchain over the next decade, fostering a new era of social connectivity and economic opportunity. By rewarding users for being social, Blue Social not only enhances individual well-being but also contributes to the broader goal of creating a more connected, happier world.\r\n\r\nJoin us on this exciting journey as we redefine social interactions and build the future of Web3 social networks. Welcome to Blue Social and the BLUE Token ecosystem – where genuine connections and rewarding interactions come to life.",
+  "website": "https://web3.blue.social",
+  "twitter": "https://twitter.com/bluesocialapp",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1721948743/migrations/xpctosmycl7xsn1qpxsk.svg",
+  "opTokenId": "BLUE",
+  "addresses": {
+    "1": "0x0b3ee85e3419ed38a7d00a56010237aa9a712cdc",
+    "8453": "0xcfb948647440ea5586f0a74bf685ddede1384585"
+  }
+}

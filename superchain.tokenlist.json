@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-23T14:32:14.100Z",
+  "timestamp": "2024-07-30T19:22:42.026Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -143,6 +143,62 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Bitbot",
+      "symbol": "BITBOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
+      "address": "0x857aFCeCbdc857a8829820a775Faee1D99d42538",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BITBOT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Bitbot",
+      "symbol": "BITBOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
+      "address": "0xA797CF0ec94793B8803DD1A3BE3B4BA49E8B01E2",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BITBOT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Blue Social Token",
+      "symbol": "BLUE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1721948743/migrations/xpctosmycl7xsn1qpxsk.svg",
+      "address": "0x0b3eE85E3419ed38A7D00a56010237aA9a712CdC",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BLUE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Blue Social Token",
+      "symbol": "BLUE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1721948743/migrations/xpctosmycl7xsn1qpxsk.svg",
+      "address": "0xcfb948647440ea5586f0a74bf685ddede1384585",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BLUE",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

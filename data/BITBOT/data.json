@@ -1,0 +1,22 @@
+{
+    "name": "Bitbot",
+    "symbol": "BITBOT",
+    "decimals": 18,
+    "description": "The most powerful DeFi bot built on Telegram",
+    "website": "https://bitbot.tg",
+    "twitter": "https://x.com/Official_BitBot",
+    "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
+    "opTokenId": "BITBOT",
+    "tokens": {
+      "ethereum": {
+        "address": "0x857afcecbdc857a8829820a775faee1d99d42538"
+      },
+      "base": {
+        "address": "0xA797CF0ec94793B8803DD1A3BE3B4BA49E8B01E2"
+      }
+    },
+    "addresses": {
+      "1": "0x857afcecbdc857a8829820a775faee1d99d42538",
+      "8453": "0xA797CF0ec94793B8803DD1A3BE3B4BA49E8B01E2"
+    }
+  }

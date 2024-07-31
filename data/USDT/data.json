@@ -2,12 +2,12 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716236952/migrations/ialnkv2r7uoopzxssejk.svg",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722441641/migrations/dipr1czokf2beorxukrv.svg",
   "opTokenId": "USDT",
   "addresses": {
     "1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "8453": "0x60b8bcde38712cfbeb970b1b1e52a653ddeb96d0"
+    "8453": "0x361980079e14200a42e4d6e0159472270579d7ad"
   },
-  "description": "first",
-  "twitter": "https://x.com/ifunanyachukwuX"
+  "description": "testing",
+  "twitter": "https://x.com/meisterjustice"
 }

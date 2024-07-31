@@ -1,0 +1,14 @@
+{
+  "name": "Flakka",
+  "symbol": "FLAKKA",
+  "decimals": 18,
+  "description": "I'm FLAKKA\r\nThat's it. I'm here to destroy your dopemine receptors, and there's nothing you can do about it.",
+  "website": "https://flakka.fun",
+  "twitter": "https://x.com/flakkafun",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722445223/migrations/kzqxdg4hab3avq52wex4.svg",
+  "opTokenId": "FLAKKA",
+  "addresses": {
+    "1": "0xe951bc69eac0ad75253000272cfdd3ad6212b714",
+    "8453": "0x9eaac9316e0f61552efb1c59279d2ed3c65ae0af"
+  }
+}

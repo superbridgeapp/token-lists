@@ -1,12 +1,12 @@
 {
-  "name": "Tether USD",
+  "name": "Meister USD",
   "symbol": "USDT",
   "decimals": 6,
   "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722441641/migrations/dipr1czokf2beorxukrv.svg",
   "opTokenId": "USDT",
   "addresses": {
     "1": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "8453": "0x361980079e14200a42e4d6e0159472270579d7ad"
+    "8453": "0x785c913eeecc3efcd02c09d5bcaf3e08db6e6ad6"
   },
   "description": "testing",
   "twitter": "https://x.com/meisterjustice"

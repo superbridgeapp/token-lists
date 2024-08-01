@@ -1,0 +1,14 @@
+{
+  "name": "APWine Token",
+  "symbol": "APW",
+  "decimals": 18,
+  "description": "Governance token of spectra.finance",
+  "website": "https://www.spectra.finance/",
+  "twitter": "https://x.com/spectra_finance",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496225/migrations/mtq26tvfnftgg7bqwpbq.svg",
+  "opTokenId": "APW",
+  "addresses": {
+    "1": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+    "8453": "0x5dbe772a051fa853433cdae923c3b3ae955df7bd"
+  }
+}

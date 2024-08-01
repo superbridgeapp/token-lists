@@ -5,10 +5,11 @@
   "description": "Governance token of spectra.finance",
   "website": "https://www.spectra.finance/",
   "twitter": "https://x.com/spectra_finance",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496225/migrations/mtq26tvfnftgg7bqwpbq.svg",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
   "opTokenId": "APW",
   "addresses": {
-    "1": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+    "1": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "10": "0x92a2a0d39da80e1fa21afdebdd87c4f975adf9f0",
     "8453": "0x5dbe772a051fa853433cdae923c3b3ae955df7bd"
   }
 }

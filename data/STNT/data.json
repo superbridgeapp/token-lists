@@ -1,0 +1,14 @@
+{
+  "name": "STiiNT-It",
+  "symbol": "STNT",
+  "decimals": 18,
+  "description": "The STiiNT-It ecosystem token",
+  "website": "https://stiint-it.com/",
+  "twitter": "https://x.com/Stiintit",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+  "opTokenId": "STNT",
+  "addresses": {
+    "1": "0x1978747f0EA5fE314d0bd0493A30d55B1E40f199",
+    "8453": "0x929f376fc3b8188d1ea4c90ee8463c07eddf7f8c"
+  }
+}

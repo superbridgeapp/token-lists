@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-30T19:22:42.026Z",
+  "timestamp": "2024-08-03T14:28:30.116Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -789,6 +789,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "SOFT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "STiiNT-It",
+      "symbol": "STNT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+      "address": "0x1978747f0EA5fE314d0bd0493A30d55B1E40f199",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "STNT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "STiiNT-It",
+      "symbol": "STNT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+      "address": "0x929f376fc3b8188d1ea4c90ee8463c07eddf7f8c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "STNT",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

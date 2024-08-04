@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-03T14:28:30.116Z",
+  "timestamp": "2024-08-04T21:25:10.720Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1112,6 +1112,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "WEXO",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Wildfire",
+      "symbol": "Wildfire",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722731051/migrations/x4xr96ebe41w2pzkimk3.svg",
+      "address": "0x5B2e491082493Ac11c9DCBe0Be2135d7A902aA57",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "Wildfire",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Wildfire",
+      "symbol": "Wildfire",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722731051/migrations/x4xr96ebe41w2pzkimk3.svg",
+      "address": "0x8ebe9bf80cfeb21d8fe0baff1e373375982fc9b1",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "Wildfire",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

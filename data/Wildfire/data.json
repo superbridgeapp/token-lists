@@ -1,0 +1,14 @@
+{
+  "name": "Wildfire",
+  "symbol": "Wildfire",
+  "decimals": 18,
+  "description": "Wildfireart.ai Platform Token",
+  "website": "Wildfireart.ai",
+  "twitter": "https://x.com/WildfireToken",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722731051/migrations/x4xr96ebe41w2pzkimk3.svg",
+  "opTokenId": "Wildfire",
+  "addresses": {
+    "1": "0x5B2e491082493Ac11c9DCBe0Be2135d7A902aA57",
+    "8453": "0x8ebe9bf80cfeb21d8fe0baff1e373375982fc9b1"
+  }
+}

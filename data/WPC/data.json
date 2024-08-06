@@ -1,0 +1,14 @@
+{
+  "name": "WePiggy Coin",
+  "symbol": "WPC",
+  "decimals": 18,
+  "description": "WePiggy Coin on Base",
+  "website": "https://www.wepiggy.com/",
+  "twitter": "https://x.com/wepiggydotcom",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722326758/migrations/etywermwcbjjq5ba1tzz.svg",
+  "opTokenId": "WPC",
+  "addresses": {
+    "1": "0x6F620EC89B8479e97A6985792d0c64F237566746",
+    "8453": "0x71607c3e77a8965ee55a084996cce573bbe40e63"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "AwesomeToken",
+  "symbol": "AT",
+  "decimals": 18,
+  "description": "Awesome Token on Base",
+  "website": "https://app.aime.bot/",
+  "twitter": "https://x.com/kai_kai_kang",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722921062/migrations/lpm5cxcwbz5kobulhf2e.svg",
+  "opTokenId": "AT",
+  "addresses": {
+    "1": "0x411D4e147636C63380Fe8D569e9D05DA88688381",
+    "8453": "0xc3636a50d5ecfd2ccc943eff2cc4010233f5ee66"
+  }
+}

@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-04T21:25:10.720Z",
+  "timestamp": "2024-08-09T09:28:39.553Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -153,7 +153,7 @@
       "symbol": "BITBOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0x857aFCeCbdc857a8829820a775Faee1D99d42538",
+      "address": "0xf241FD6fB9E46F17BA816D4463A2447F3d477Be0",
       "chainId": 1,
       "extensions": {
         "opTokenId": "BITBOT",
@@ -167,7 +167,7 @@
       "symbol": "BITBOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0xA797CF0ec94793B8803DD1A3BE3B4BA49E8B01E2",
+      "address": "0x8BfB09521EBc971C493FceF170B5A5f169aB54fA",
       "chainId": 8453,
       "extensions": {
         "opTokenId": "BITBOT",

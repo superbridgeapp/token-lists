@@ -9,14 +9,14 @@
     "opTokenId": "BITBOT",
     "tokens": {
       "ethereum": {
-        "address": "0xf241FD6fB9E46F17BA816D4463A2447F3d477Be0"
+        "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818"
       },
       "base": {
-        "address": "0x8BfB09521EBc971C493FceF170B5A5f169aB54fA"
+        "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818"
       }
     },
     "addresses": {
-      "1": "0xf241FD6fB9E46F17BA816D4463A2447F3d477Be0",
-      "8453": "0x8BfB09521EBc971C493FceF170B5A5f169aB54fA"
+      "1": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
+      "8453": "0x252D223D0550BC6c137B003D90bc74F5341A2818"
     }
   }

@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-10T16:28:10.750Z",
+  "timestamp": "2024-08-14T21:59:28.501Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -87,6 +87,49 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "APU",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "APW",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x92a2a0d39da80e1fa21afdebdd87c4f975adf9f0",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "APW",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x5dbe772a051fa853433cdae923c3b3ae955df7bd",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "APW",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

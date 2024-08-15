@@ -1,0 +1,13 @@
+{
+  "name": "SlashClanMint",
+  "symbol": "SCM",
+  "decimals": 18,
+  "description": "SlashClanMint a new meme coin for gamers!",
+  "twitter": "https://x.com/SlashClanMint",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1723716418/migrations/jzez82uj8phtqwzvxdpn.svg",
+  "opTokenId": "SCM",
+  "addresses": {
+    "1": "0x7174e40A7fcD14B6D4Ca54F6f0b4390b8F1D656F",
+    "8453": "0xc875bd0ab6c6352394d8a5ba355f3f6cd394f0bd"
+  }
+}

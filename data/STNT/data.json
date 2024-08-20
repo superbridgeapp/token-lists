@@ -1,14 +1,14 @@
 {
-  "name": "STiiNT-It",
+  "name": "STiiNT-iT",
   "symbol": "STNT",
   "decimals": 18,
-  "description": "The STiiNT-It ecosystem token",
+  "description": "The STiiNT-iT Ecosystem Token",
   "website": "https://stiint-it.com/",
   "twitter": "https://x.com/Stiintit",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1724140633/migrations/x72shw1npckwepdvmlwl.svg",
   "opTokenId": "STNT",
   "addresses": {
-    "1": "0x1978747f0EA5fE314d0bd0493A30d55B1E40f199",
-    "8453": "0x929f376fc3b8188d1ea4c90ee8463c07eddf7f8c"
+    "1": "0xae28075b58ffc9a6ba22cc4ade7300e0c828d94c",
+    "8453": "0xf9e6726354605586fba7393e6e082f6e40557086"
   }
 }

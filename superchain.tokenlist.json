@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-07-30T19:22:42.026Z",
+  "timestamp": "2024-08-14T21:59:28.501Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -93,6 +93,49 @@
       }
     },
     {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "APW",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x92a2a0d39da80e1fa21afdebdd87c4f975adf9f0",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "APW",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "APWine Token",
+      "symbol": "APW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722496538/migrations/ll9v3hu79vvthy9noqjq.svg",
+      "address": "0x5dbe772a051fa853433cdae923c3b3ae955df7bd",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "APW",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "AstroPepeX",
       "symbol": "APX",
       "decimals": 18,
@@ -153,7 +196,7 @@
       "symbol": "BITBOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0x857aFCeCbdc857a8829820a775Faee1D99d42538",
+      "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
       "chainId": 1,
       "extensions": {
         "opTokenId": "BITBOT",
@@ -167,7 +210,7 @@
       "symbol": "BITBOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0xA797CF0ec94793B8803DD1A3BE3B4BA49E8B01E2",
+      "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
       "chainId": 8453,
       "extensions": {
         "opTokenId": "BITBOT",
@@ -795,6 +838,34 @@
       }
     },
     {
+      "name": "STiiNT-It",
+      "symbol": "STNT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+      "address": "0x1978747f0EA5fE314d0bd0493A30d55B1E40f199",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "STNT",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "STiiNT-It",
+      "symbol": "STNT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
+      "address": "0x929f376fc3b8188d1ea4c90ee8463c07eddf7f8c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "STNT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "STPT Network",
       "symbol": "STPT",
       "decimals": 18,
@@ -1084,6 +1155,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "WEXO",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Wildfire",
+      "symbol": "Wildfire",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722731051/migrations/x4xr96ebe41w2pzkimk3.svg",
+      "address": "0x5B2e491082493Ac11c9DCBe0Be2135d7A902aA57",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "Wildfire",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Wildfire",
+      "symbol": "Wildfire",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722731051/migrations/x4xr96ebe41w2pzkimk3.svg",
+      "address": "0x8ebe9bf80cfeb21d8fe0baff1e373375982fc9b1",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "Wildfire",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

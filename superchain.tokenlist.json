@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-14T21:59:28.501Z",
+  "timestamp": "2024-08-23T10:21:35.327Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -767,6 +767,34 @@
       }
     },
     {
+      "name": "SlashClanMint",
+      "symbol": "SCM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1723716418/migrations/jzez82uj8phtqwzvxdpn.svg",
+      "address": "0x7174e40A7fcD14B6D4Ca54F6f0b4390b8F1D656F",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SCM",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "SlashClanMint",
+      "symbol": "SCM",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1723716418/migrations/jzez82uj8phtqwzvxdpn.svg",
+      "address": "0xc875bd0ab6c6352394d8a5ba355f3f6cd394f0bd",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SCM",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Smart Layer Network Token",
       "symbol": "SLN",
       "decimals": 18,
@@ -838,11 +866,11 @@
       }
     },
     {
-      "name": "STiiNT-It",
+      "name": "STiiNT-iT",
       "symbol": "STNT",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
-      "address": "0x1978747f0EA5fE314d0bd0493A30d55B1E40f199",
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1724140633/migrations/x72shw1npckwepdvmlwl.svg",
+      "address": "0xae28075B58fFc9a6bA22CC4adE7300E0c828D94c",
       "chainId": 1,
       "extensions": {
         "opTokenId": "STNT",
@@ -852,11 +880,11 @@
       }
     },
     {
-      "name": "STiiNT-It",
+      "name": "STiiNT-iT",
       "symbol": "STNT",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1722685858/migrations/vl37twk2ysf2xplizurh.svg",
-      "address": "0x929f376fc3b8188d1ea4c90ee8463c07eddf7f8c",
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1724140633/migrations/x72shw1npckwepdvmlwl.svg",
+      "address": "0xf9e6726354605586fba7393e6e082f6e40557086",
       "chainId": 8453,
       "extensions": {
         "opTokenId": "STNT",

@@ -1,0 +1,11 @@
+{
+  "name": "Aavegotchi GHST Token",
+  "symbol": "GHSTM",
+  "decimals": 18,
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1724574573/migrations/bplazxlwopmiqz6xuz8r.svg",
+  "opTokenId": "GHSTM",
+  "addresses": {
+    "1": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "3002": "0xf0F161fDA2712DB8b566946122a5af183995e002"
+  }
+}

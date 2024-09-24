@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-08-23T10:21:35.327Z",
+  "timestamp": "2024-09-24T10:55:19.992Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -242,6 +242,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "BLUE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Botto",
+      "symbol": "BOTTO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727169408/migrations/sgukgudo11plgbax4rrn.svg",
+      "address": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BOTTO",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Botto",
+      "symbol": "BOTTO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727169408/migrations/sgukgudo11plgbax4rrn.svg",
+      "address": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BOTTO",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -606,6 +634,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "KAI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "MASQ",
+      "symbol": "MASQ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MASQ-Project/MASQ-contract/master/masq-logo.png",
+      "address": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "MASQ",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "MASQ",
+      "symbol": "MASQ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MASQ-Project/MASQ-contract/master/masq-logo.png",
+      "address": "0x45D9C101a3870Ca5024582fd788F4E1e8F7971c3",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "MASQ",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

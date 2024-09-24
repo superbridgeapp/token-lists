@@ -1,0 +1,14 @@
+{
+  "name": "Botto",
+  "symbol": "BOTTO",
+  "decimals": 18,
+  "description": "Botto is a decentralized autonomous artist that creates works of art based on collective feedback from the community. Our participation is what completes Botto as an artist.",
+  "website": "https://botto.com",
+  "twitter": "https://x.com/bottoproject",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727169408/migrations/sgukgudo11plgbax4rrn.svg",
+  "opTokenId": "BOTTO",
+  "addresses": {
+    "1": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+    "8453": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c"
+  }
+}

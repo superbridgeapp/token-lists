@@ -1,0 +1,14 @@
+{
+  "name": "Blocery Token",
+  "symbol": "BLY",
+  "decimals": 18,
+  "description": "Blocery token on Base",
+  "website": "https://www.blocery.io/",
+  "twitter": "https://x.com/blocery",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727445944/migrations/txcfreihjujbz9qs7z2s.svg",
+  "opTokenId": "BLY",
+  "addresses": {
+    "1": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+    "8453": "0xfb6919cb8468eb39747c1cb216d51b03b835b35b"
+  }
+}

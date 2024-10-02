@@ -1,0 +1,14 @@
+{
+  "name": "GURU Token",
+  "symbol": "GURU",
+  "decimals": 18,
+  "description": "The GURU token is the native utility token of the Guru Network, designed to facilitate various activities within the ecosystem, reward contributors, and manage the supply through secure mechanisms.",
+  "website": "https://gurunetwork.ai",
+  "twitter": "https://x.com/xgurunetwork",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727864236/migrations/cza58cygue3nhngpgmgu.svg",
+  "opTokenId": "GURU",
+  "addresses": {
+    "1": "0x525574C899A7c877a11865339e57376092168258",
+    "8453": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2"
+  }
+}

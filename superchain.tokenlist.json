@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-09-24T10:55:19.992Z",
+  "timestamp": "2024-10-05T19:29:28.607Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -578,6 +578,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "GHST",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "GURU Token",
+      "symbol": "GURU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727864236/migrations/cza58cygue3nhngpgmgu.svg",
+      "address": "0x525574C899A7c877a11865339e57376092168258",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "GURU",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "GURU Token",
+      "symbol": "GURU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727864236/migrations/cza58cygue3nhngpgmgu.svg",
+      "address": "0x0f1cfd0bb452db90a3bfc0848349463010419ab2",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "GURU",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

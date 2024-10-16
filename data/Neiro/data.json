@@ -1,0 +1,14 @@
+{
+  "name": "Neiro",
+  "symbol": "Neiro",
+  "decimals": 9,
+  "description": "The sister of Kabosu Doge.\r\n\r\nNeiro is a community-managed project with an emphasis on charity and doing only good everyday.",
+  "website": "https://www.neiroeth.io/",
+  "twitter": "https://x.com/neiro",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
+  "opTokenId": "Neiro",
+  "addresses": {
+    "1": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+    "8453": "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a"
+  }
+}

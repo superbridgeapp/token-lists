@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-05T19:29:28.607Z",
+  "timestamp": "2024-10-16T09:16:04.603Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -718,6 +718,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "MONKE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Neiro",
+      "symbol": "Neiro",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
+      "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "Neiro",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Neiro",
+      "symbol": "Neiro",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
+      "address": "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "Neiro",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

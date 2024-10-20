@@ -1,0 +1,14 @@
+{
+  "name": "1984",
+  "symbol": "1984",
+  "decimals": 18,
+  "description": "1984",
+  "website": "https://www.1984.red/",
+  "twitter": "https://x.com/ETH1984CTO",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729427236/migrations/jtpalpeykh7iaamtunqh.svg",
+  "opTokenId": "1984",
+  "addresses": {
+    "1": "0x4278A8944Cf63753b13E9f726BBC1192412988D8",
+    "8453": "0x0238bcc0d4532900ef4ed712905df4055f14c6e8"
+  }
+}

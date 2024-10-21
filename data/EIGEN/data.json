@@ -1,0 +1,14 @@
+{
+  "name": "Eigen",
+  "symbol": "EIGEN",
+  "decimals": 18,
+  "description": "EIGEN's innovative design implements \"intersubjective forking\" for expanded security and unlocks new possibilities for Actively Validated Services (“AVSs”). Learn more in the whitepaper: eigen.eigenlayer.xyz",
+  "website": "app.eigenlayer.xyz",
+  "twitter": "https://x.com/eigenlayer",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729536350/migrations/iokfgiwfcx2nk4u5mf8k.svg",
+  "opTokenId": "EIGEN",
+  "addresses": {
+    "1": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "8453": "0x2081ab0d9ec9e4303234ab26d86b20b3367946ee"
+  }
+}

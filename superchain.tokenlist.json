@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-22T00:04:49.327Z",
+  "timestamp": "2024-10-22T16:59:18.848Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -466,6 +466,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EVERY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Fanscoin",
+      "symbol": "FANS",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729587408/migrations/l1w0ztsf7yac3hvrkxjt.svg",
+      "address": "0x5a3D120B4C32ec664B0F59199749500Dd3E74E19",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FANS",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Fanscoin",
+      "symbol": "FANS",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729587408/migrations/l1w0ztsf7yac3hvrkxjt.svg",
+      "address": "0xdaa9ac33fd7de00c8ca34d40bd7a44c8efbe849d",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "FANS",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

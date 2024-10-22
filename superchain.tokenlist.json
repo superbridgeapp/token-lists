@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-16T09:16:04.603Z",
+  "timestamp": "2024-10-22T00:04:49.327Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -410,6 +410,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "DODO",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Eigen",
+      "symbol": "EIGEN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729536350/migrations/iokfgiwfcx2nk4u5mf8k.svg",
+      "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "EIGEN",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Eigen",
+      "symbol": "EIGEN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729536350/migrations/iokfgiwfcx2nk4u5mf8k.svg",
+      "address": "0x2081ab0d9ec9e4303234ab26d86b20b3367946ee",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "EIGEN",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -1,0 +1,14 @@
+{
+  "name": "Fanscoin",
+  "symbol": "FANS",
+  "decimals": 18,
+  "description": "Fanscoin is a digital currency that combines blockchain technology with meme culture to enhance community engagement. It allows users to earn rewards by participating in activities or creating memes, blending financial utility with entertainment to encourage broader user interaction.",
+  "website": "Fanscoin.org",
+  "twitter": "x.com/Fanscoin",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729587408/migrations/l1w0ztsf7yac3hvrkxjt.svg",
+  "opTokenId": "FANS",
+  "addresses": {
+    "1": "0x5a3d120b4c32ec664b0f59199749500dd3e74e19",
+    "8453": "0xdaa9ac33fd7de00c8ca34d40bd7a44c8efbe849d"
+  }
+}

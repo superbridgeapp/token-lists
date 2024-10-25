@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-22T16:59:18.848Z",
+  "timestamp": "2024-10-25T09:24:59.599Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -360,6 +360,34 @@
       }
     },
     {
+      "name": "CoW Protocol Token",
+      "symbol": "COW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729784219/migrations/aajuoiceu0sikvsjcnfn.svg",
+      "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "COW",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "CoW Protocol Token",
+      "symbol": "COW",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729784219/migrations/aajuoiceu0sikvsjcnfn.svg",
+      "address": "0xc694a91e6b071bf030a18bd3053a7fe09b6dae69",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "COW",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Dimension Token",
       "symbol": "DMS",
       "decimals": 18,
@@ -490,10 +518,38 @@
       "symbol": "FANS",
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729587408/migrations/l1w0ztsf7yac3hvrkxjt.svg",
-      "address": "0xdaa9ac33fd7de00c8ca34d40bd7a44c8efbe849d",
+      "address": "0xD7f873844e0517Aa9121D15A318A255970130531",
       "chainId": 8453,
       "extensions": {
         "opTokenId": "FANS",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "FUMoney",
+      "symbol": "FU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729846164/migrations/x9hrwcqca0jgolywazew.svg",
+      "address": "0x6C05b8141cEfb64502B6DfcAAE7C77BAbBaC18FA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FU",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "FUMoney",
+      "symbol": "FU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729846164/migrations/x9hrwcqca0jgolywazew.svg",
+      "address": "0x8f4e4221ba88d4e9bb76ecfb91d7c5ce08d7d5b9",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "FU",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

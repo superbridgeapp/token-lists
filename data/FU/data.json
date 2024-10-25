@@ -1,0 +1,14 @@
+{
+  "name": "FUMoney",
+  "symbol": "FU",
+  "decimals": 18,
+  "description": "FU Money is Fu Studio's mullet-style utility token, combining purpose with a playful twist: utility upfront, meme in the back. It links all FU Studios productions, fueling and supporting the ecosystem",
+  "website": "https://fustudios.io/",
+  "twitter": "https://x.com/FU_STUDIOS",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729846164/migrations/x9hrwcqca0jgolywazew.svg",
+  "opTokenId": "FU",
+  "addresses": {
+    "1": "0x6C05b8141cEfb64502B6DfcAAE7C77BAbBaC18FA",
+    "8453": "0x8f4e4221ba88d4e9bb76ecfb91d7c5ce08d7d5b9"
+  }
+}

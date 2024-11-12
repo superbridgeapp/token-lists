@@ -1,0 +1,14 @@
+{
+  "name": "Bellscoin (Vaulted)",
+  "symbol": "BELLS",
+  "decimals": 18,
+  "description": "BELLS is DOGE's daddy, created by Billy Markus 8 days before Dogecoin. Bellscoin is a 2013 PoW Layer 1 blockchain resurrected by Adam McBride and Luke Wright in December 2023 and now has more Ordinal inscriptions than the Bitcoin network. This is a wrapped form of BELLS on Ethereum via the Televault protocol called Vaulted Bellscoin.",
+  "website": "https://bellscoin.com/",
+  "twitter": "https://x.com/BellsChain",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731422002/migrations/c76cevozujvbp6z0k5jl.svg",
+  "opTokenId": "BELLS",
+  "addresses": {
+    "1": "0x38FB3406532398Bc3ec391b5eBEB833cc4c89d58",
+    "8453": "0x5866b867aabedad434f06bea9bf604a9af55c15c"
+  }
+}

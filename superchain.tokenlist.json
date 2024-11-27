@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-25T09:24:59.599Z",
+  "timestamp": "2024-11-27T09:00:19.966Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -494,6 +494,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EVERY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "SynFutures",
+      "symbol": "F",
+      "decimals": 18,
+      "logoURI": "https://api.synfutures.com/ipfs/icons/f.png",
+      "address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "F",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "SynFutures",
+      "symbol": "F",
+      "decimals": 18,
+      "logoURI": "https://api.synfutures.com/ipfs/icons/f.png",
+      "address": "0x2C24497D4086490e7EaD87CC12597fb50c2E6eD6",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "F",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -1,0 +1,15 @@
+
+{
+    "name": "Silo Governance Token",
+    "symbol": "Silo",
+    "decimals": 18,
+    "description": "Silo Finance is a non-custodial protocol for risk-isolated lending markets.",
+    "website": "https://silo.finance/",
+    "twitter": "https://x.com/SiloFinance",
+    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/refs/heads/master/data/Silo/logo.svg",
+    "opTokenId": "Silo",
+    "addresses": {
+      "1": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+      "8453": "0xF734eFdE0C424BA2B547b186586dE417b0954802"
+    }
+}

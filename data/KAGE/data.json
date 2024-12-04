@@ -1,0 +1,13 @@
+{
+  "name": "KAGE NETWORK",
+  "symbol": "KAGE",
+  "decimals": 18,
+  "description": "KAGE Network is a privacy focused project that provides Hardware VPN Routers with a decentralized storage network.\r\n",
+  "twitter": "https://x.com/kagenetwork",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731720209/migrations/rv9ymhipbpyvucblcaoe.svg",
+  "opTokenId": "KAGE",
+  "addresses": {
+    "1": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+    "8453": "0x9f942b4a95ac4abdb1ef162b88b0b322ebd579b5"
+  }
+}

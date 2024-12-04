@@ -1,0 +1,11 @@
+{
+  "name": "Equilibria",
+  "symbol": "EQB",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EQB/logo.svg",
+  "opTokenId": "EQB",
+  "addresses": {
+    "1": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
+    "8453": "0x010cd9b9be7E416E07793dc6Ce2F45868A80a50a"
+  }
+}

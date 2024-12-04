@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-11-27T09:00:19.966Z",
+  "timestamp": "2024-12-04T18:53:05.962Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -556,6 +556,34 @@
       }
     },
     {
+      "name": "FC Ryukyu Coin",
+      "symbol": "FCR",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731921519/migrations/d1ozacwep6aq8yjkgvqw.svg",
+      "address": "0x19cD99831e02AE35aEc61Ce228c108444A851aE0",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FCR",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+        }
+      }
+    },
+    {
+      "name": "FC Ryukyu Coin",
+      "symbol": "FCR",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731921519/migrations/d1ozacwep6aq8yjkgvqw.svg",
+      "address": "0x48dcf11f635102a14d8d069c2f3dba4093348342",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "FCR",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "FUMoney",
       "symbol": "FU",
       "decimals": 18,
@@ -774,6 +802,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "HUNT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "KAGE NETWORK",
+      "symbol": "KAGE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731720209/migrations/rv9ymhipbpyvucblcaoe.svg",
+      "address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "KAGE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "KAGE NETWORK",
+      "symbol": "KAGE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731720209/migrations/rv9ymhipbpyvucblcaoe.svg",
+      "address": "0x9f942b4a95ac4abdb1ef162b88b0b322ebd579b5",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "KAGE",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

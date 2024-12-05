@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-12-04T18:53:05.962Z",
+  "timestamp": "2024-12-05T09:00:36.507Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -466,6 +466,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "EIGEN",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Equilibria",
+      "symbol": "EQB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EQB/logo.svg",
+      "address": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "EQB",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Equilibria",
+      "symbol": "EQB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EQB/logo.svg",
+      "address": "0x010cd9b9be7E416E07793dc6Ce2F45868A80a50a",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "EQB",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

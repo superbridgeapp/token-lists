@@ -1,0 +1,11 @@
+{
+  "name": "Nektar Network",
+  "symbol": "NET",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Deepcryptodive/ethereum-optimism.github.io/22e3f194774f4bdff25cc8020c59583c08cde642/data/NET/logo.svg",
+  "opTokenId": "NET",
+  "addresses": {
+    "1": "0x6e6b7adfc7db9feeb8896418ac3422966f65d0a5",
+    "8453": "0x2d1B28672C631CC3CE556D3C7F0E78016E809fec"
+  }
+}

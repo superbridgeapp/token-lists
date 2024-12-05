@@ -1,0 +1,14 @@
+{
+    "name": "Aviator",
+    "symbol": "AVI",
+    "decimals": 18,
+    "description": "Aviator is revolutionizing onchain gaming and bridging on Base with Aviator Arcade and SkyBridge",
+    "website": "https://aviator.ac/",
+    "twitter": "https://x.com/aviator_ac",
+    "logoURI": "https://github.com/AviatorAC/aviator-token/blob/main/logo.svg",
+    "opTokenId": "AVI",
+    "addresses": {
+      "1": "0xd2bDaAF2b9cc6981fd273DcB7C04023bFbe0a7fe",
+      "8453": "0x3203856eaC03d343f9d5245BA2F39861838A7B36"
+    }
+  }

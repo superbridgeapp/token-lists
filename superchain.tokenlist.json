@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-12-05T09:00:36.507Z",
+  "timestamp": "2024-12-18T07:56:05.374Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1196,6 +1196,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "SOFT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Subsquid",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/de9uloihj/image/upload/v1733403078/Symbol_wh-bg_f3jvmu.png",
+      "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SQD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Subsquid",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/de9uloihj/image/upload/v1733403078/Symbol_wh-bg_f3jvmu.png",
+      "address": "0xd4554BEa546EFa83C1E6B389ecac40EA999B3E78",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SQD",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

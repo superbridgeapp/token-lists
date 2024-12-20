@@ -1,0 +1,13 @@
+{
+  "name": "lmeow",
+  "symbol": "LMEOW",
+  "decimals": 9,
+  "description": "MEOW: Making every day ‘Caturday’ in the crypto world.\r\n\r\nMeet LMEOW, the adventurous and audacious feline that’s pawing her way through the crypto jungle. Born in the bustling alleys of the internet, LMEOW wasn’t your ordinary kitty. She had a dream bigger than a mountain of catnip: to shift the meme coin ecosystem from the barking dominance of dog-themed coins to the purring prowess of cat-themed currencies.\r\n\r\nHer journey began with a simple, yet powerful “meow” that caught the attention of crypto luminaries like Snowden and the half god of CT, GCR. With just a tweet, LMEOW became more than a meme; she became a movement. Alongside her dog token friends, she’s on a mission not just to climb the crypto ladder but to leap onto the top shelf, where the finest treats lie.\r\n\r\nLMEOW’s path is paved with challenges, from dodging pesky digital dogs to navigating the volatile waves of the market. But with her charm, wit, and a little help from her growing legion of supporters, she’s turning skeptics into believers, one purr at a time.\r\n\r\nWhere does LMEOW want to go? Beyond the moon, beyond Mars, she aims for the furthest reaches of the galaxy. Because for LMEOW, the sky’s not the limit—it’s just another stepping stone on her quest for universal domination. Join LMEOW on this epic adventure as she proves that in the world of cryptocurrencies, cats indeed rule and dogs drool.",
+  "twitter": "https://x.com/lmeowcommunity",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734733408/migrations/oqy5fwhq74nwslnrbmub.svg",
+  "opTokenId": "LMEOW",
+  "addresses": {
+    "1": "0x1aE7e1d0ce06364CED9aD58225a1705b3e5DB92b",
+    "8453": "0x05fc1fa527ae2f2cec350c4468837bab44c2bf1a"
+  }
+}

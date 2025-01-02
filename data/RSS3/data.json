@@ -1,0 +1,11 @@
+{
+  "name": "RSS3",
+  "symbol": "RSS3",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/23575/large/RSS3.png",
+  "opTokenId": "RSS3",
+  "addresses": {
+    "1": "0xc98D64DA73a6616c42117b582e832812e7B8D57F",
+    "8453": "0xDb4d83343623027B6b4C4D3354AE9FdA4A90AD67"
+  }
+}

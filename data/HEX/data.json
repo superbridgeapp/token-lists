@@ -1,0 +1,13 @@
+{
+  "name": "HEX",
+  "symbol": "HEX",
+  "decimals": 8,
+  "description": "HEX is trustless certificate of deposit protocol on Ethereum.",
+  "twitter": "https://x.com/HEXcrypto",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736067272/migrations/fmjyiv90adh0bnm4lfrx.svg",
+  "opTokenId": "HEX",
+  "addresses": {
+    "1": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "8453": "0x3861677ccd6fc9f116c7016a07015671578d9534"
+  }
+}

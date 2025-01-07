@@ -1,0 +1,13 @@
+{
+  "name": "Opal Token",
+  "symbol": "OPAL",
+  "decimals": 18,
+  "description": "this is a test opal token",
+  "twitter": "https://x.com/avariksaga/",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736236949/migrations/zzmjmqwprgz3rzd8gtc7.svg",
+  "opTokenId": "OPAL",
+  "addresses": {
+    "1": "0x29C7D81b5629a02d288dfe8d7c78a289957885e3",
+    "8453": "0x766e914c4003a1cf43bfddfcd8782e54fab320bb"
+  }
+}

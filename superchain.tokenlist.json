@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-12-18T07:56:05.374Z",
+  "timestamp": "2025-01-07T19:40:02.820Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -164,6 +164,34 @@
       }
     },
     {
+      "name": "Avarik Saga",
+      "symbol": "AVRK",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736240395/migrations/xwnqui7g4jkagggzl8ug.svg",
+      "address": "0x607f451f850CB612a07b37b6315be23F55165610",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "AVRK",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Avarik Saga",
+      "symbol": "AVRK",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736240395/migrations/xwnqui7g4jkagggzl8ug.svg",
+      "address": "0xcaacd56d3d9b41d9d1272457e77f8ae510fdb688",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "AVRK",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "AxonDAO Governance Token",
       "symbol": "AXGT",
       "decimals": 18,
@@ -186,6 +214,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Strawberry AI",
+      "symbol": "BERRY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
+      "address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BERRY",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Strawberry AI",
+      "symbol": "BERRY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
+      "address": "0xdf36186772a8fda4be100dbacc0b48ef00c53089",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BERRY",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -886,6 +942,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "KAI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "lmeow",
+      "symbol": "LMEOW",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734733408/migrations/oqy5fwhq74nwslnrbmub.svg",
+      "address": "0x1aE7e1d0ce06364CED9aD58225a1705b3e5DB92b",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "LMEOW",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "lmeow",
+      "symbol": "LMEOW",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734733408/migrations/oqy5fwhq74nwslnrbmub.svg",
+      "address": "0x05fc1fa527ae2f2cec350c4468837bab44c2bf1a",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "LMEOW",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

@@ -1,0 +1,12 @@
+{
+  "name": "Bonsai Token",
+  "symbol": "BONSAI",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/35884/standard/White_Logo_%283%29.png",
+  "opTokenId": "BONSAI",
+  "addresses": {
+    "137": "0x3d2bD0e15829AA5C362a4144FdF4A1112fa29B5c",
+    "8453": "0x474f4cb764df9da079D94052fED39625c147C12C",
+    "324": "0xB0588f9A9cADe7CD5f194a5fe77AcD6A58250f82"
+  }
+}

@@ -2,13 +2,13 @@
   "name": "Atlas Navi",
   "symbol": "NAVI",
   "decimals": 18,
-  "description": "Atlas Navi is the first Drive to Earn navigation app that uses A.I. and the smartphone camera to avoid traffic by detecting road conditions",
+  "description": "Atlas Navi is the first Drive to Earn navigation app using A.I. and the smartphone camera to avoid traffic by detecting road conditions and rerouting drivers. Download and join over 1,000,000 drivers and earn whilst driving.",
   "website": "https://www.atlasnavi.com/",
   "twitter": "https://x.com/AtlasNavi",
   "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1735851816/migrations/matv46go2wrokxlfrrxe.svg",
   "opTokenId": "NAVI",
   "addresses": {
     "1": "0xFc1C93a2507975E98b9d0E9260Ded61A00152BF1",
-    "8453": "0x151101bde8465657360280d61a9e7b729cd55bb3"
+    "8453": "0x37cfcdd301e992cd0c2435049d7075c6583b1d0e"
   }
 }

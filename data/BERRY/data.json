@@ -1,0 +1,14 @@
+{
+  "name": "Strawberry AI",
+  "symbol": "BERRY",
+  "decimals": 18,
+  "description": "The BERRY token serves as the utility token powering the entire StrawberryAI ecosystem. It will adopt a deflationary model and is integral to multiple functions, including:  \r\n\r\n- Acting as gas for transactions on the BerryChain.  \r\n- Being utilized in all liquidity pools ($TOKEN/$BERRY).  \r\n- Supporting the Launchpad, API, SDK, and providing access to StrawberryAI products.",
+  "website": "https://usestrawberry.ai",
+  "twitter": "https://x.com/StrawberryAI_5",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
+  "opTokenId": "BERRY",
+  "addresses": {
+    "1": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
+    "8453": "0xdf36186772a8fda4be100dbacc0b48ef00c53089"
+  }
+}

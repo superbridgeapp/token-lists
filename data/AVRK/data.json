@@ -1,0 +1,13 @@
+{
+  "name": "Avarik Saga",
+  "symbol": "AVRK",
+  "decimals": 18,
+  "description": "The Avarik Saga Universe is fueled by its native token, $AVRK, which serves as the cornerstone of the ecosystem, empowering players and driving engagement within the game",
+  "twitter": "https://x.com/tedo",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736240395/migrations/xwnqui7g4jkagggzl8ug.svg",
+  "opTokenId": "AVRK",
+  "addresses": {
+    "1": "0x607f451f850cb612a07b37b6315be23f55165610",
+    "8453": "0xcaacd56d3d9b41d9d1272457e77f8ae510fdb688"
+  }
+}

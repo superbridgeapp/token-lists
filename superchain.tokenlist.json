@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-07T19:40:02.820Z",
+  "timestamp": "2025-01-09T02:49:35.192Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1110,6 +1110,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "PAGE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Parifi",
+      "symbol": "PRF",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
+      "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "PRF",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Parifi",
+      "symbol": "PRF",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
+      "address": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "PRF",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

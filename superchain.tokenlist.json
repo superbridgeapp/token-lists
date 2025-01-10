@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-09T02:49:35.192Z",
+  "timestamp": "2025-01-10T22:25:45.330Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1032,6 +1032,34 @@
       }
     },
     {
+      "name": "Atlas Navi",
+      "symbol": "NAVI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1735851816/migrations/matv46go2wrokxlfrrxe.svg",
+      "address": "0xFc1C93a2507975E98b9d0E9260Ded61A00152BF1",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "NAVI",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Atlas Navi",
+      "symbol": "NAVI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1735851816/migrations/matv46go2wrokxlfrrxe.svg",
+      "address": "0x37cfcdd301e992cd0c2435049d7075c6583b1d0e",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "NAVI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Neiro",
       "symbol": "Neiro",
       "decimals": 9,
@@ -1392,6 +1420,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "STPT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734474853/migrations/bq0nbnp31jonq5ogduqb.svg",
+      "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SUPER",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734474853/migrations/bq0nbnp31jonq5ogduqb.svg",
+      "address": "0x391359ab0ccef572dcac78f74e47d7c06db0b982",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SUPER",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

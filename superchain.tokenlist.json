@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-10T22:25:45.330Z",
+  "timestamp": "2025-01-10T23:53:15.137Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -830,6 +830,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "GHST",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "GOLD6900",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736548155/migrations/lcfgstklyeht92ab5agh.svg",
+      "address": "0xcab8546b5B009192953d8f0d269780fb4d05DEfD",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "GOLD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "GOLD6900",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736548155/migrations/lcfgstklyeht92ab5agh.svg",
+      "address": "0x84ea4d1b8ad81e398f8ef82dd055781f61f05649",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "GOLD",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

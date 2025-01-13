@@ -1,0 +1,14 @@
+{
+  "name": "STYLE Token",
+  "symbol": "STYLE",
+  "decimals": 18,
+  "description": "$STYLE is powering the AI and 3D gaming Infrastructure of the STYLE Protocol. Allowing decentralised creation of smart AI 3D Models, validation and participation in the Ecosystem. ",
+  "website": "https://www.labs.style",
+  "twitter": "https://x.com/StyleProtocol",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736806427/migrations/dmhgg2sy7fiafeywzbvf.svg",
+  "opTokenId": "STYLE",
+  "addresses": {
+    "1": "0x9e91F79070926A191e41367d40aD582686f9e66D",
+    "8453": "0x958a405cfd2789e2b7f261d542feae84a8514c44"
+  }
+}

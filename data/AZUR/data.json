@@ -1,0 +1,14 @@
+{
+  "name": "Azuro Protocol",
+  "symbol": "AZUR",
+  "decimals": 18,
+  "description": "Azuro is a decentralized protocol for prediction markets, providing tooling & infrastructure for EVM chains to host powerful apps and betting interfaces.",
+  "website": "https://azuro.org",
+  "twitter": "https://x.com/azuroprotocol",
+  "logoURI": "https://res.cloudinary.com/deyqt3nqg/image/upload/v1736856477/gclHWoGh_400x400_nhnacp.jpg",
+  "opTokenId": "AZUR",
+  "addresses": {
+    "1": "0x9E6be44cC1236eEf7e1f197418592D363BedCd5A",
+    "8453": "0x7C25141980acF3360c9977728B63Ada422Ec79c1"
+  }
+}

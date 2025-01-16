@@ -2,13 +2,14 @@
   "name": "Meeds Token",
   "symbol": "MEED",
   "decimals": 18,
-  "description": "Meeds DAO is building the community managmeent for the future of work",
+  "description": "Meeds DAO is building the community management platform for the future of work",
   "website": "https://meeds.io",
   "twitter": "https://x.com/iomeeds",
   "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737046631/migrations/yt4gawwrdwfrtxkyczak.svg",
   "opTokenId": "MEED",
   "addresses": {
     "1": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
-    "10": "0xdd462e9399624dfcf73018793bd50a7ef47940b9"
+    "10": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
+    "8453": "0xd9df947d2a8f9c28c37af7cb7c526022fb14efa2"
   }
 }

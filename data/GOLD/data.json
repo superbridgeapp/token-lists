@@ -1,0 +1,14 @@
+{
+  "name": "GOLD6900",
+  "symbol": "GOLD",
+  "decimals": 18,
+  "description": "GOLD6900 is inside the stock-to-meme narrative, paying tribute to gold with innovative tokenomics. Unlike projects focused on stocks or indexes, GOLD6900 centers on a metal, embodying rarity and value. With a total supply of 212,582 tokens—mirroring the 212,582 tons of gold ever mined—it connects digital scarcity with the timeless allure of gold.",
+  "website": "https://gold6900.io/",
+  "twitter": "https://x.com/GOLD6900",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736548155/migrations/lcfgstklyeht92ab5agh.svg",
+  "opTokenId": "GOLD",
+  "addresses": {
+    "1": "0xcab8546b5B009192953d8f0d269780fb4d05DEfD",
+    "8453": "0x84ea4d1b8ad81e398f8ef82dd055781f61f05649"
+  }
+}

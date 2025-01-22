@@ -1,0 +1,14 @@
+{
+  "name": "Parifi",
+  "symbol": "PRF",
+  "decimals": 18,
+  "description": "Parifi is a decentralized perpetual protocol that aims to bring parity to all market participants with an innovative pricing mechanism.",
+  "website": "https://parifi.org/",
+  "twitter": "https://x.com/0xParifi",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
+  "opTokenId": "PRF",
+  "addresses": {
+    "1": "0xcffcfdada28ab44d5440301470dcd410e75c4765",
+    "8453": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf"
+  }
+}

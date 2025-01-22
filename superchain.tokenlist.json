@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-10-25T09:24:59.599Z",
+  "timestamp": "2025-01-17T09:16:32.240Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -164,6 +164,34 @@
       }
     },
     {
+      "name": "Avarik Saga",
+      "symbol": "AVRK",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736240395/migrations/xwnqui7g4jkagggzl8ug.svg",
+      "address": "0x607f451f850CB612a07b37b6315be23F55165610",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "AVRK",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Avarik Saga",
+      "symbol": "AVRK",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736240395/migrations/xwnqui7g4jkagggzl8ug.svg",
+      "address": "0xcaacd56d3d9b41d9d1272457e77f8ae510fdb688",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "AVRK",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "AxonDAO Governance Token",
       "symbol": "AXGT",
       "decimals": 18,
@@ -186,6 +214,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Strawberry AI",
+      "symbol": "BERRY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
+      "address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BERRY",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Strawberry AI",
+      "symbol": "BERRY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
+      "address": "0xdf36186772a8fda4be100dbacc0b48ef00c53089",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BERRY",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -472,6 +528,34 @@
       }
     },
     {
+      "name": "Equilibria",
+      "symbol": "EQB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EQB/logo.svg",
+      "address": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "EQB",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Equilibria",
+      "symbol": "EQB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/EQB/logo.svg",
+      "address": "0x010cd9b9be7E416E07793dc6Ce2F45868A80a50a",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "EQB",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Everyworld",
       "symbol": "EVERY",
       "decimals": 18,
@@ -500,6 +584,34 @@
       }
     },
     {
+      "name": "SynFutures",
+      "symbol": "F",
+      "decimals": 18,
+      "logoURI": "https://api.synfutures.com/ipfs/icons/f.png",
+      "address": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "F",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "SynFutures",
+      "symbol": "F",
+      "decimals": 18,
+      "logoURI": "https://api.synfutures.com/ipfs/icons/f.png",
+      "address": "0x2C24497D4086490e7EaD87CC12597fb50c2E6eD6",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "F",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Fanscoin",
       "symbol": "FANS",
       "decimals": 18,
@@ -522,6 +634,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "FANS",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "FC Ryukyu Coin",
+      "symbol": "FCR",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731921519/migrations/d1ozacwep6aq8yjkgvqw.svg",
+      "address": "0x19cD99831e02AE35aEc61Ce228c108444A851aE0",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FCR",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+        }
+      }
+    },
+    {
+      "name": "FC Ryukyu Coin",
+      "symbol": "FCR",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731921519/migrations/d1ozacwep6aq8yjkgvqw.svg",
+      "address": "0x48dcf11f635102a14d8d069c2f3dba4093348342",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "FCR",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -696,6 +836,34 @@
       }
     },
     {
+      "name": "GOLD6900",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736548155/migrations/lcfgstklyeht92ab5agh.svg",
+      "address": "0xcab8546b5B009192953d8f0d269780fb4d05DEfD",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "GOLD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "GOLD6900",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736548155/migrations/lcfgstklyeht92ab5agh.svg",
+      "address": "0x84ea4d1b8ad81e398f8ef82dd055781f61f05649",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "GOLD",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "GURU Token",
       "symbol": "GURU",
       "decimals": 18,
@@ -752,6 +920,34 @@
       }
     },
     {
+      "name": "KAGE NETWORK",
+      "symbol": "KAGE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731720209/migrations/rv9ymhipbpyvucblcaoe.svg",
+      "address": "0x64945165255bcb83f2Ef9f31a575975832CA4dB4",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "KAGE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "KAGE NETWORK",
+      "symbol": "KAGE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1731720209/migrations/rv9ymhipbpyvucblcaoe.svg",
+      "address": "0x9f942b4a95ac4abdb1ef162b88b0b322ebd579b5",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "KAGE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "Kinetix Finance",
       "symbol": "KAI",
       "decimals": 18,
@@ -774,6 +970,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "KAI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "lmeow",
+      "symbol": "LMEOW",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734733408/migrations/oqy5fwhq74nwslnrbmub.svg",
+      "address": "0x1aE7e1d0ce06364CED9aD58225a1705b3e5DB92b",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "LMEOW",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "lmeow",
+      "symbol": "LMEOW",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734733408/migrations/oqy5fwhq74nwslnrbmub.svg",
+      "address": "0x05fc1fa527ae2f2cec350c4468837bab44c2bf1a",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "LMEOW",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -808,6 +1032,49 @@
       }
     },
     {
+      "name": "Meeds Token",
+      "symbol": "MEED",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737046631/migrations/yt4gawwrdwfrtxkyczak.svg",
+      "address": "0x8503a7b00B4b52692cC6c14e5b96F142E30547b7",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "MEED",
+        "standardBridgeAddresses": {
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Meeds Token",
+      "symbol": "MEED",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737046631/migrations/yt4gawwrdwfrtxkyczak.svg",
+      "address": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
+      "chainId": 10,
+      "extensions": {
+        "opTokenId": "MEED",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Meeds Token",
+      "symbol": "MEED",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737046631/migrations/yt4gawwrdwfrtxkyczak.svg",
+      "address": "0xd9df947d2a8f9c28c37af7cb7c526022fb14efa2",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "MEED",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "MONKE",
       "symbol": "MONKE",
       "decimals": 18,
@@ -830,6 +1097,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "MONKE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Atlas Navi",
+      "symbol": "NAVI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1735851816/migrations/matv46go2wrokxlfrrxe.svg",
+      "address": "0xFc1C93a2507975E98b9d0E9260Ded61A00152BF1",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "NAVI",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Atlas Navi",
+      "symbol": "NAVI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1735851816/migrations/matv46go2wrokxlfrrxe.svg",
+      "address": "0x37cfcdd301e992cd0c2435049d7075c6583b1d0e",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "NAVI",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -914,6 +1209,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "PAGE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Parifi",
+      "symbol": "PRF",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
+      "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "PRF",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Parifi",
+      "symbol": "PRF",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
+      "address": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "PRF",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -1090,6 +1413,34 @@
       }
     },
     {
+      "name": "Subsquid",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/de9uloihj/image/upload/v1733403078/Symbol_wh-bg_f3jvmu.png",
+      "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SQD",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Subsquid",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/de9uloihj/image/upload/v1733403078/Symbol_wh-bg_f3jvmu.png",
+      "address": "0xd4554BEa546EFa83C1E6B389ecac40EA999B3E78",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SQD",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "STiiNT-iT",
       "symbol": "STNT",
       "decimals": 18,
@@ -1140,6 +1491,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "STPT",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734474853/migrations/bq0nbnp31jonq5ogduqb.svg",
+      "address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SUPER",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734474853/migrations/bq0nbnp31jonq5ogduqb.svg",
+      "address": "0x391359ab0ccef572dcac78f74e47d7c06db0b982",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SUPER",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

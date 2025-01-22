@@ -1,0 +1,14 @@
+{
+  "name": "Wasao",
+  "symbol": "WASAO",
+  "decimals": 18,
+  "description": "$WASAO The Stationmaster Dog of Crypto: The stray turned icon, celebrating loyalty, adventure, and community. Join the journey!",
+  "website": "https://wasao.dog/",
+  "twitter": "https://x.com/WasaoDog",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737574337/migrations/m7hpjna7diodiprdfcwl.svg",
+  "opTokenId": "WASAO",
+  "addresses": {
+    "1": "0xe2061bc4ac4f407f6d88443fff660efb004957de",
+    "8453": "0x9895a8de0c0c7ce8a8e2fb2876973edbb61c6ecf"
+  }
+}

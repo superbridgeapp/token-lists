@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-17T09:16:32.240Z",
+  "timestamp": "2025-01-25T05:09:43.511Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -662,6 +662,34 @@
       "chainId": 10,
       "extensions": {
         "opTokenId": "FCR",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "FOOM",
+      "symbol": "FOOM",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737464073/migrations/tlra8yekg09vtiidduqt.svg",
+      "address": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "FOOM",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "FOOM",
+      "symbol": "FOOM",
+      "decimals": 4,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737464073/migrations/tlra8yekg09vtiidduqt.svg",
+      "address": "0x379503ebb4276aef546157a0de66a245c9413450",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "FOOM",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -1497,6 +1525,34 @@
       }
     },
     {
+      "name": "STYLE Token",
+      "symbol": "STYLE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736806427/migrations/dmhgg2sy7fiafeywzbvf.svg",
+      "address": "0x9e91F79070926A191e41367d40aD582686f9e66D",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "STYLE",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "STYLE Token",
+      "symbol": "STYLE",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736806427/migrations/dmhgg2sy7fiafeywzbvf.svg",
+      "address": "0x958a405cfd2789e2b7f261d542feae84a8514c44",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "STYLE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "SuperVerse",
       "symbol": "SUPER",
       "decimals": 18,
@@ -1758,6 +1814,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "WAAC",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Wasao",
+      "symbol": "WASAO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737574337/migrations/m7hpjna7diodiprdfcwl.svg",
+      "address": "0xE2061BC4aC4F407f6d88443fFf660EFB004957dE",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "WASAO",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Wasao",
+      "symbol": "WASAO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737574337/migrations/m7hpjna7diodiprdfcwl.svg",
+      "address": "0x9895a8de0c0c7ce8a8e2fb2876973edbb61c6ecf",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "WASAO",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

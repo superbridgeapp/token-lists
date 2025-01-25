@@ -1,0 +1,14 @@
+{
+  "name": "FOOM",
+  "symbol": "FOOM",
+  "decimals": 4,
+  "description": "Foom is the primary token for the Terrestrial Church's projects, supporting the shift to a Post Work Society. It aids Foom agents in learning effective speculation and marketing, empowering them as independent influencers. Foom holders contribute to the AfterLife ecosystem and gain future rewards.",
+  "website": "https://foom.club",
+  "twitter": "https://x.com/foomclub",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737464073/migrations/tlra8yekg09vtiidduqt.svg",
+  "opTokenId": "FOOM",
+  "addresses": {
+    "1": "0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+    "8453": "0x379503ebb4276aef546157a0de66a245c9413450"
+  }
+}

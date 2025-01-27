@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-25T05:09:43.511Z",
+  "timestamp": "2025-01-27T15:31:31.773Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -242,6 +242,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "BERRY",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Biaoqing",
+      "symbol": "BIAO",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737403245/migrations/qklwvop0elmfyq7phqzs.svg",
+      "address": "0x9Fd9278f04f01c6a39a9d1c1CD79f7782C6ADe08",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "BIAO",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Biaoqing",
+      "symbol": "BIAO",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737403245/migrations/qklwvop0elmfyq7phqzs.svg",
+      "address": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "BIAO",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

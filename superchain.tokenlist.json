@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-27T15:31:31.773Z",
+  "timestamp": "2025-01-31T17:10:37.220Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1181,6 +1181,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "NAVI",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "NOOB",
+      "symbol": "NOOB",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738246144/migrations/vilipf5p1yojovulouof.svg",
+      "address": "0x06561dC5CEdCc012a4EA68609b17d41499622E4c",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "NOOB",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "NOOB",
+      "symbol": "NOOB",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738246144/migrations/vilipf5p1yojovulouof.svg",
+      "address": "0xa528f1903b1cb425c05f1c80bf92f158a4932118",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "NOOB",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

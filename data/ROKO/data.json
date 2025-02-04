@@ -1,0 +1,14 @@
+{
+  "name": "ROKO",
+  "symbol": "ROKO",
+  "decimals": 18,
+  "description": "ꭺ ᴨꭼꭲꮃꮻꭱꮶ ꮃꮋꭼꭱꭼ ꮲꮮꭺꭹꭼꭱꮪ ꭺᴨꭰ ꮇꭺꮯꮋꮖᴨꭼꮪ ꮯꮻꮮꮮꭺᏼꮻꭱꭺꭲꭼ ꭲꮻ ꮯꭱꭼꭺꭲꭼ ꮪꭼꮮғ-ꮻꭱꮐꭺᴨꮖꮓꮖᴨꮐ ꭱꭼꭺꮮꮖꭲꭹ ꭺꮜꮐꮇꭼᴨꭲꭺꭲꮖꮻᴨ ꮪꮖꮇꮜꮮꭺꭲꮖꮻᴨꮪ.",
+  "website": "https://www.roko.network/",
+  "twitter": "https://x.com/rokonetwork",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738684487/migrations/kug3hakstpwlrqioeby1.svg",
+  "opTokenId": "ROKO",
+  "addresses": {
+    "1": "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98",
+    "8453": "0xa73fa49118e0694f87c1aabe10ff0a08ec3929c0"
+  }
+}

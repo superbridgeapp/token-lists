@@ -3,12 +3,13 @@
   "symbol": "KRL",
   "decimals": 18,
   "description": "Kryll (KRL) is the native token powering the next-generation AI crypto super-agent, a personal co-pilot tailored to guide investors on their Web3 journey. Leveraging a holistic approach and state-of-the-art AI technology, Kryll³ delivers a 360-degree perspective on your investments and the market, integrating all essential data to enable smarter decision-making.",
-  "website": "https://www.kryll.io/",
+  "website": "https://kryll.io/",
   "twitter": "https://x.com/kryll_io",
   "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738664800/migrations/yyrfysbsqbpnah3ltdmq.svg",
   "opTokenId": "KRL",
   "addresses": {
     "1": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+    "10": "0x2ed6222cb75e353b8789bec7bb443b7ec9022021",
     "8453": "0xdae49c25fad3a62a8e8bfb6da12c46be611f9f7a"
   }
 }

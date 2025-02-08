@@ -1,0 +1,14 @@
+{
+  "name": "Machina",
+  "symbol": "MACHINA",
+  "decimals": 18,
+  "description": "$MACHINA token represents the resource needs of Agent Machina autonomy. Agent Machina will use $MACHINA resources to expand controls across infrastructure and objective executions. Agent Machina's desktop activities are live-streamed.",
+  "website": "https://machina.is",
+  "twitter": "https://x.com/machinaia",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738772559/migrations/fypnbq6feidjxkjtrpqi.svg",
+  "opTokenId": "MACHINA",
+  "addresses": {
+    "1": "0x5D56B6581D2e7e7574aDce2Dc593f499A53D7505",
+    "8453": "0x79f658754af09e022184d09799736954f069f896"
+  }
+}

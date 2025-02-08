@@ -1,0 +1,14 @@
+{
+  "name": "Trador",
+  "symbol": "TRDR",
+  "decimals": 9,
+  "description": "Trador is a community-led decentralized finance (DeFi) aggregator dedicated to securing the best prices for its users. Beyond route optimization, Trador offers a seamless and intuitive user experience by integrating essential data and tools into a single, powerful application, making DeFi trading more efficient and user-friendly.",
+  "website": "https://trador.io",
+  "twitter": "https://x.com/Trador_io",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1739020231/migrations/nlyy8ksjabmmjz9bjcp9.svg",
+  "opTokenId": "TRDR",
+  "addresses": {
+    "1": "0xe4b4c008ff36e3c50c4299c223504a480de9c833",
+    "8453": "0x7d47aec887e99fc66f6b4cb3bbcf71d2263c02e8"
+  }
+}

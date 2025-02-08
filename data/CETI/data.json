@@ -1,0 +1,13 @@
+{
+  "name": "Tao Ceτi",
+  "symbol": "CETI",
+  "decimals": 18,
+  "description": "At CETI, our mission is to accelerate the advancement of decentralized artificial intelligence. In pursuit of this goal, we build globally distributed, high-performance, scalable AI infrastructure for developers and distributed networks that enables them to rapidly outpace the capabilities of reach and centralized AI.\r\n",
+  "twitter": "https://x.com/ceti_ai",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738557750/migrations/od0n4htbwhrmbt8yqweb.svg",
+  "opTokenId": "CETI",
+  "addresses": {
+    "1": "0x1bFCe574dEFf725A3f483C334b790E25c8FA9779",
+    "8453": "0x7f092d3edac0726e1bde1a8df7cd95bad9b1da53"
+  }
+}

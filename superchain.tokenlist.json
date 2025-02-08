@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-01-31T17:10:37.220Z",
+  "timestamp": "2025-02-08T14:24:11.034Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -382,6 +382,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "CARD",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Tao Ceτi",
+      "symbol": "CETI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738557750/migrations/od0n4htbwhrmbt8yqweb.svg",
+      "address": "0x1bFCe574dEFf725A3f483C334b790E25c8FA9779",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "CETI",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Tao Ceτi",
+      "symbol": "CETI",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738557750/migrations/od0n4htbwhrmbt8yqweb.svg",
+      "address": "0x7f092d3edac0726e1bde1a8df7cd95bad9b1da53",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "CETI",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -1060,6 +1088,34 @@
       }
     },
     {
+      "name": "Machina",
+      "symbol": "MACHINA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738772559/migrations/fypnbq6feidjxkjtrpqi.svg",
+      "address": "0x5D56B6581D2e7e7574aDce2Dc593f499A53D7505",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "MACHINA",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Machina",
+      "symbol": "MACHINA",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738772559/migrations/fypnbq6feidjxkjtrpqi.svg",
+      "address": "0x79f658754af09e022184d09799736954f069f896",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "MACHINA",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "MASQ",
       "symbol": "MASQ",
       "decimals": 18,
@@ -1398,6 +1454,34 @@
       }
     },
     {
+      "name": "ROKO",
+      "symbol": "ROKO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738684487/migrations/kug3hakstpwlrqioeby1.svg",
+      "address": "0x6f222E04F6c53Cc688FfB0Abe7206aAc66A8FF98",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "ROKO",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "ROKO",
+      "symbol": "ROKO",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1738684487/migrations/kug3hakstpwlrqioeby1.svg",
+      "address": "0xa73fa49118e0694f87c1aabe10ff0a08ec3929c0",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "ROKO",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
       "name": "SlashClanMint",
       "symbol": "SCM",
       "decimals": 18,
@@ -1659,6 +1743,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "TEN",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Trador",
+      "symbol": "TRDR",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1739020231/migrations/nlyy8ksjabmmjz9bjcp9.svg",
+      "address": "0xe4b4C008Ff36E3C50c4299c223504a480DE9C833",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "TRDR",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Trador",
+      "symbol": "TRDR",
+      "decimals": 9,
+      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1739020231/migrations/nlyy8ksjabmmjz9bjcp9.svg",
+      "address": "0x7d47aec887e99fc66f6b4cb3bbcf71d2263c02e8",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "TRDR",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

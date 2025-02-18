@@ -1,0 +1,11 @@
+{
+    "name": "Superfluid Token",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sup.svg",
+    "opTokenId": "SUP",
+    "addresses": {
+      "1": "0xD05001Db979ff2f1a3B2105875d3454E90dd2961",
+      "8453": "0xa69f80524381275A7fFdb3AE01c54150644c8792"
+    }
+  }

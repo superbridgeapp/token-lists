@@ -4,7 +4,7 @@ Please open PRs against the [official Superchain token list](https://github.com/
 
 The official Superchain token list is more broadly supported, so any tokens merged there will be reflected in more frontends than just Superbridge.
 
-## Superbridge token lists
+### Superbridge token lists
 
 We use this repository for accepting token listings on [superbridge.app](https://superbridge.app).
 

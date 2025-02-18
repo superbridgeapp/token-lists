@@ -121,7 +121,7 @@ async function main() {
         transport: http(),
       });
 
-      const [BRIDGE, REMOTE_TOKEN, l2Bridge, l1Token] = await Promise.all([
+      const [BRIDGE, REMOTE_TOKEN, bridge, _remoteToken, l2Bridge, l1Token] = await Promise.all([
         client
           .readContract({
             abi: OptimismMintableERC20Abi,
@@ -133,6 +133,20 @@ async function main() {
           .readContract({
             abi: OptimismMintableERC20Abi,
             functionName: "REMOTE_TOKEN",
+            address: address as Address,
+          })
+          .catch(() => null),
+        client
+          .readContract({
+            abi: OptimismMintableERC20Abi,
+            functionName: "bridge",
+            address: address as Address,
+          })
+          .catch(() => null),
+        client
+          .readContract({
+            abi: OptimismMintableERC20Abi,
+            functionName: "remoteToken",
             address: address as Address,
           })
           .catch(() => null),
@@ -152,8 +166,8 @@ async function main() {
           .catch(() => null),
       ]);
 
-      const localBridge = BRIDGE || l2Bridge;
-      const remoteToken = REMOTE_TOKEN || l1Token;
+      const localBridge = BRIDGE || l2Bridge || bridge;
+      const remoteToken = REMOTE_TOKEN || l1Token || _remoteToken;
 
       // mintable
       if (localBridge && remoteToken) {

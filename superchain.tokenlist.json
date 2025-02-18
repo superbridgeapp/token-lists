@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-02-18T13:48:42.329Z",
+  "timestamp": "2025-02-18T14:09:14.209Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -1687,6 +1687,34 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "STYLE",
+        "standardBridgeAddresses": {
+          "1": "0x4200000000000000000000000000000000000010"
+        }
+      }
+    },
+    {
+      "name": "Superfluid Token",
+      "symbol": "SUP",
+      "decimals": 18,
+      "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sup.svg",
+      "address": "0xD05001Db979ff2f1a3B2105875d3454E90dd2961",
+      "chainId": 1,
+      "extensions": {
+        "opTokenId": "SUP",
+        "standardBridgeAddresses": {
+          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+        }
+      }
+    },
+    {
+      "name": "Superfluid Token",
+      "symbol": "SUP",
+      "decimals": 18,
+      "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sup.svg",
+      "address": "0xa69f80524381275A7fFdb3AE01c54150644c8792",
+      "chainId": 8453,
+      "extensions": {
+        "opTokenId": "SUP",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }

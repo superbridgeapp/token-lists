@@ -6,7 +6,7 @@ import { isAddressEqual, isAddress } from "viem/utils";
 import { OptimismMintableERC20Abi } from "./abis/OptimismMintableERC20";
 import { StandardBridgeAbi } from "./abis/StandardBridge";
 import { L2StandardERC20Abi } from "./abis/L2StandardERC20";
-import { getViemChain, TokenData } from "./utils";
+import { getClient, getViemChain, TokenData } from "./utils";
 
 async function main() {
   const [, , ...files] = process.argv;
@@ -39,10 +39,7 @@ async function main() {
     let base = false;
 
     for (const [chainId, address] of Object.entries(data!.addresses)) {
-      const client = createPublicClient({
-        chain: getViemChain(chainId),
-        transport: http(),
-      });
+      const client = getClient(parseInt(chainId))
 
       if (!isAddress(address)) {
         throw new Error(`Invalid address for chainId ${chainId}`);

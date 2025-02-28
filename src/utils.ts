@@ -1,3 +1,4 @@
+import { createPublicClient, http } from "viem";
 import * as viemChains from "viem/chains";
 
 export interface SuperchainToken {
@@ -33,4 +34,25 @@ export const getViemChain = (id: number | string) => {
     throw new Error(`Chain ${id} not found`);
   }
   return chain;
+};
+
+export const getClient = (chainId: number) => {
+  let url: string | undefined = undefined;
+
+  if (chainId == viemChains.mainnet.id) {
+    url = process.env["ETHEREUM_RPC_URL"];
+  }
+  if (chainId == viemChains.base.id) {
+    url = process.env["BASE_RPC_URL"];
+  }
+  if (chainId == viemChains.optimism.id) {
+    url = process.env["OPTIMISM_RPC_URL"];
+  }
+
+  const client = createPublicClient({
+    chain: getViemChain(chainId),
+    transport: http(url),
+  });
+
+  return client;
 };

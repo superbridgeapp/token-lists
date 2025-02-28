@@ -33,6 +33,10 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Generate token list
+        env:
+          ETHEREUM_RPC_URL: ${{ secrets.ETHEREUM_RPC_URL }}
+          BASE_RPC_URL: ${{ secrets.BASE_RPC_URL }}
+          OPTIMISM_RPC_URL: ${{ secrets.OPTIMISM_RPC_URL }}
         run: |
           npx tsx ./src/generate-token-list-from-data.ts
 

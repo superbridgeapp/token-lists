@@ -1,12 +1,13 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";
-import { createPublicClient, http, Address } from "viem";
+import { Address } from "viem";
 import { isAddressEqual } from "viem/utils";
 import * as viemChains from "viem/chains";
 
 import { OptimismMintableERC20Abi } from "./abis/OptimismMintableERC20";
 import { StandardBridgeAbi } from "./abis/StandardBridge";
 import { L2StandardERC20Abi } from "./abis/L2StandardERC20";
+import { getClient } from "./utils";
 
 interface SuperchainToken {
   chainId: number;
@@ -116,55 +117,53 @@ async function main() {
     }
 
     for (const [chainId, address] of Object.entries(data.addresses)) {
-      const client = createPublicClient({
-        chain: getViemChain(chainId),
-        transport: http(),
-      });
+      const client = getClient(parseInt(chainId));
 
-      const [BRIDGE, REMOTE_TOKEN, bridge, _remoteToken, l2Bridge, l1Token] = await Promise.all([
-        client
-          .readContract({
-            abi: OptimismMintableERC20Abi,
-            functionName: "BRIDGE",
-            address: address as Address,
-          })
-          .catch(() => null),
-        client
-          .readContract({
-            abi: OptimismMintableERC20Abi,
-            functionName: "REMOTE_TOKEN",
-            address: address as Address,
-          })
-          .catch(() => null),
-        client
-          .readContract({
-            abi: OptimismMintableERC20Abi,
-            functionName: "bridge",
-            address: address as Address,
-          })
-          .catch(() => null),
-        client
-          .readContract({
-            abi: OptimismMintableERC20Abi,
-            functionName: "remoteToken",
-            address: address as Address,
-          })
-          .catch(() => null),
-        client
-          .readContract({
-            abi: L2StandardERC20Abi,
-            functionName: "l2Bridge",
-            address: address as Address,
-          })
-          .catch(() => null),
-        client
-          .readContract({
-            abi: L2StandardERC20Abi,
-            functionName: "l1Token",
-            address: address as Address,
-          })
-          .catch(() => null),
-      ]);
+      const [BRIDGE, REMOTE_TOKEN, bridge, _remoteToken, l2Bridge, l1Token] =
+        await Promise.all([
+          client
+            .readContract({
+              abi: OptimismMintableERC20Abi,
+              functionName: "BRIDGE",
+              address: address as Address,
+            })
+            .catch(() => null),
+          client
+            .readContract({
+              abi: OptimismMintableERC20Abi,
+              functionName: "REMOTE_TOKEN",
+              address: address as Address,
+            })
+            .catch(() => null),
+          client
+            .readContract({
+              abi: OptimismMintableERC20Abi,
+              functionName: "bridge",
+              address: address as Address,
+            })
+            .catch(() => null),
+          client
+            .readContract({
+              abi: OptimismMintableERC20Abi,
+              functionName: "remoteToken",
+              address: address as Address,
+            })
+            .catch(() => null),
+          client
+            .readContract({
+              abi: L2StandardERC20Abi,
+              functionName: "l2Bridge",
+              address: address as Address,
+            })
+            .catch(() => null),
+          client
+            .readContract({
+              abi: L2StandardERC20Abi,
+              functionName: "l1Token",
+              address: address as Address,
+            })
+            .catch(() => null),
+        ]);
 
       const localBridge = BRIDGE || l2Bridge || bridge;
       const remoteToken = REMOTE_TOKEN || l1Token || _remoteToken;

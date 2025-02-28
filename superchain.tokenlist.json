@@ -6,7 +6,7 @@
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2025-02-28T11:29:44.396Z",
+  "timestamp": "2025-02-28T11:31:41.670Z",
   "tokens": [
     {
       "name": "Wrapped MistCoin",
@@ -214,146 +214,6 @@
       "chainId": 8453,
       "extensions": {
         "opTokenId": "AXGT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Strawberry AI",
-      "symbol": "BERRY",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
-      "address": "0xCb76314C2540199f4B844D4ebbC7998C604880cA",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "BERRY",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Strawberry AI",
-      "symbol": "BERRY",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736265095/migrations/xa1ovjbvovh8ua2pqvnr.svg",
-      "address": "0xdf36186772a8fda4be100dbacc0b48ef00c53089",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "BERRY",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Biaoqing",
-      "symbol": "BIAO",
-      "decimals": 9,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737403245/migrations/qklwvop0elmfyq7phqzs.svg",
-      "address": "0x9Fd9278f04f01c6a39a9d1c1CD79f7782C6ADe08",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "BIAO",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Biaoqing",
-      "symbol": "BIAO",
-      "decimals": 9,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1737403245/migrations/qklwvop0elmfyq7phqzs.svg",
-      "address": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "BIAO",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Bitbot",
-      "symbol": "BITBOT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "BITBOT",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Bitbot",
-      "symbol": "BITBOT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bitbot-project/token-info/main/bitbot.jpg",
-      "address": "0x252D223D0550BC6c137B003D90bc74F5341A2818",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "BITBOT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Blue Social Token",
-      "symbol": "BLUE",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1721948743/migrations/xpctosmycl7xsn1qpxsk.svg",
-      "address": "0x0b3eE85E3419ed38A7D00a56010237aA9a712CdC",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "BLUE",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Blue Social Token",
-      "symbol": "BLUE",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1721948743/migrations/xpctosmycl7xsn1qpxsk.svg",
-      "address": "0xcfb948647440ea5586f0a74bf685ddede1384585",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "BLUE",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Botto",
-      "symbol": "BOTTO",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727169408/migrations/sgukgudo11plgbax4rrn.svg",
-      "address": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "BOTTO",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Botto",
-      "symbol": "BOTTO",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1727169408/migrations/sgukgudo11plgbax4rrn.svg",
-      "address": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "BOTTO",
         "standardBridgeAddresses": {
           "1": "0x4200000000000000000000000000000000000010"
         }
@@ -780,146 +640,6 @@
       }
     },
     {
-      "name": "Finance.Vote Token",
-      "symbol": "FVT",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
-      "address": "0x45080a6531d671DDFf20DB42f93792a489685e32",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "FVT",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Finance.Vote Token",
-      "symbol": "FVT",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719893625/migrations/r3th2axhbywzf9dsbo8r.svg",
-      "address": "0x6b37f4ad0022bbe32c21829fa40fdaecad8c8d10",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "FVT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Pink Hood Froglicker",
-      "symbol": "Froglic",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
-      "address": "0x4aBD5745F326932B1b673bfa592a20d7BB6bc455",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "Froglic",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Pink Hood Froglicker",
-      "symbol": "Froglic",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1720033866/migrations/v5hwfkj1bce0itgeopbn.svg",
-      "address": "0x0dd66db0f5c7ec8a4547338a0072fb8b64278c0c",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "Froglic",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Gooch",
-      "symbol": "GCH",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716423338/migrations/nvl6huoqhvfj4hdbxkog.svg",
-      "address": "0x42379293f2b7a5b379abf54329a8CfdD0E518a9B",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "GCH",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Gooch",
-      "symbol": "GCH",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716423338/migrations/nvl6huoqhvfj4hdbxkog.svg",
-      "address": "0x74b32f58b65095e72b49a5d0fcdc5bfab6168d17",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "GCH",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "GENOME",
-      "symbol": "GENOME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
-      "address": "0x7AE4f8885f6cFa41a692cb9DA3789cfa6A83e9f2",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "GENOME",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "GENOME",
-      "symbol": "GENOME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mansour5000/logo/f4a7818f3aa039c78c43ead507793241a06cc060/200%20x%20200%20px%20gene.svg",
-      "address": "0x1db0c569ebb4a8b57AC01833B9792F526305e062",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "GENOME",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Aavegotchi GHST Token",
-      "symbol": "GHST",
-      "decimals": 18,
-      "logoURI": "https://www.aavegotchi.com/images/ghst.svg",
-      "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "GHST",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Aavegotchi GHST Token",
-      "symbol": "GHST",
-      "decimals": 18,
-      "logoURI": "https://www.aavegotchi.com/images/ghst.svg",
-      "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "GHST",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
       "name": "GOLD6900",
       "symbol": "GOLD",
       "decimals": 18,
@@ -1271,118 +991,6 @@
       }
     },
     {
-      "name": "Neiro",
-      "symbol": "Neiro",
-      "decimals": 9,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
-      "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "Neiro",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Neiro",
-      "symbol": "Neiro",
-      "decimals": 9,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
-      "address": "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "Neiro",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "MANTRA",
-      "symbol": "OM",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715593020/migrations/qecwk9njslyvuyt8va1j.svg",
-      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "OM",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "MANTRA",
-      "symbol": "OM",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715593020/migrations/qecwk9njslyvuyt8va1j.svg",
-      "address": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "OM",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Page",
-      "symbol": "PAGE",
-      "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
-      "address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "PAGE",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Page",
-      "symbol": "PAGE",
-      "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719364872/migrations/fa0twv65jybjoe3rxd01.svg",
-      "address": "0xc4730f86d1f86ce0712a7b17ee919db7defad7fe",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "PAGE",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Parifi",
-      "symbol": "PRF",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
-      "address": "0xCfFCFDAda28ab44D5440301470dCD410E75C4765",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "PRF",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Parifi",
-      "symbol": "PRF",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1736193936/migrations/i9asakfci7qcdgkq7sej.svg",
-      "address": "0x431c248257c1d3897fea3b99eb8e2e4de008cbdf",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "PRF",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "decimals": 18,
@@ -1392,8 +1000,7 @@
       "extensions": {
         "opTokenId": "PSTAKE",
         "standardBridgeAddresses": {
-          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
         }
       }
     },
@@ -1404,20 +1011,6 @@
       "logoURI": "https://raw.githubusercontent.com/persistencedotone/persistence-assets/main/pStake.svg",
       "address": "0x023550ADDe4FA2F90D63a41D9282BEE0294c04cD",
       "chainId": 10,
-      "extensions": {
-        "opTokenId": "PSTAKE",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "pSTAKE Finance",
-      "symbol": "PSTAKE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/persistencedotone/persistence-assets/main/pStake.svg",
-      "address": "0x38815A4455921667d673B4cb3d48F0383eE93400",
-      "chainId": 8453,
       "extensions": {
         "opTokenId": "PSTAKE",
         "standardBridgeAddresses": {
@@ -1842,8 +1435,7 @@
       "extensions": {
         "opTokenId": "UDT",
         "standardBridgeAddresses": {
-          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
+          "10": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
         }
       }
     },
@@ -1854,20 +1446,6 @@
       "logoURI": "https://raw.githubusercontent.com/unlock-protocol/unlock/master/design/logo/%C9%84nlock-Logo-symbol-round-beige.svg",
       "address": "0xc709c9116dBf29Da9c25041b13a07A0e68aC5d2D",
       "chainId": 10,
-      "extensions": {
-        "opTokenId": "UDT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Unlock Discount Token",
-      "symbol": "UDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/unlock-protocol/unlock/master/design/logo/%C9%84nlock-Logo-symbol-round-beige.svg",
-      "address": "0xD7eA82D19f1f59FF1aE95F1945Ee6E6d86A25B96",
-      "chainId": 8453,
       "extensions": {
         "opTokenId": "UDT",
         "standardBridgeAddresses": {
@@ -1900,118 +1478,6 @@
         "opTokenId": "UDT",
         "standardBridgeAddresses": {
           "11155111": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "UNI",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
-      "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "UNI",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "USA Token",
-      "symbol": "USA",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716268332/migrations/cigba7eqnq2veo55o82d.svg",
-      "address": "0x4FFe9CC172527DF1E40D0b2EfE1e9F05884A13dA",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "USA",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "USA Token",
-      "symbol": "USA",
-      "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1716268332/migrations/cigba7eqnq2veo55o82d.svg",
-      "address": "0xd54eecfca8194cdf750033b50b559a120834990d",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "USA",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "USDT",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
-      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "USDT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
-      "name": "Wrapped AyeAyeCoin",
-      "symbol": "WAAC",
-      "decimals": 0,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719560495/migrations/omlitwbzh5axkadkx2qp.svg",
-      "address": "0x30aE41D5f9988D359c733232C6c693c0e645C77E",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "WAAC",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "Wrapped AyeAyeCoin",
-      "symbol": "WAAC",
-      "decimals": 0,
-      "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1719560495/migrations/omlitwbzh5axkadkx2qp.svg",
-      "address": "0x0f3091255dfae02b540cd601ee25e6550759c310",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "WAAC",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
         }
       }
     },

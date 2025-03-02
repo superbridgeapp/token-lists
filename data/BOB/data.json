@@ -1,0 +1,13 @@
+{
+  "name": "BOB",
+  "symbol": "BOB",
+  "decimals": 18,
+  "description": "The original Bob token",
+  "twitter": "https://x.com/bobethtoken",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1740694852/migrations/thcpm6mghfusmwbi3ett.svg",
+  "opTokenId": "BOB",
+  "addresses": {
+    "1": "0x7d8146cf21e8d7cbe46054e01588207b51198729",
+    "8453": "0x291795420d4c212004ffe1d7d3bf48fc48101631"
+  }
+}

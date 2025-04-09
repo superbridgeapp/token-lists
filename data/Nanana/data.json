@@ -1,0 +1,14 @@
+{
+  "name": "ナナナ Banana Republic from PulseChain",
+  "symbol": "Nanana",
+  "decimals": 18,
+  "description": "ナナナ Banana Republic $NANANA It is one of the greatest MEME tokens created on PulseChain by Tang Gang. It is backed by vibrant community and The Banana Boat Club interest bearing NFT's",
+  "website": "http://www.nanana.fun/nanana%20logo.png",
+  "twitter": "https://x.com/LJ57162256",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1744199209/migrations/pkzaofk36dflkvdfmqew.svg",
+  "opTokenId": "Nanana",
+  "addresses": {
+    "1": "0x89fDfbb953f2A99A6340e6b906e0D5f577d446EC",
+    "8453": "0xa62f6691ccff782245bf47992c9346c187d760d3"
+  }
+}

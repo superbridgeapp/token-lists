@@ -1,0 +1,14 @@
+{
+  "name": "Nema",
+  "symbol": "NEMA",
+  "decimals": 18,
+  "description": "302 neurons. Infinite possibilities. One Nema.",
+  "website": "https://www.nema.ac/",
+  "twitter": "https://x.com/nema_lab",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1748456863/migrations/gk61qldjrmy5ogclh6hr.svg",
+  "opTokenId": "NEMA",
+  "addresses": {
+    "1": "0x26001a4219e58f15f542778F818c5F2B03F27BaA",
+    "8453": "0x613a603cddaefe663af2148e11e398c8225f41fc"
+  }
+}

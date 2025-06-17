@@ -1,0 +1,14 @@
+{
+  "name": "coordinape.com",
+  "symbol": "CO",
+  "decimals": 18,
+  "description": "The CO token is the native token of Coordinape and CoDAO, powering reputation, governance, and value creation across the Social Oracle ecosystem.",
+  "website": "https://co.coordinape.com/",
+  "twitter": "https://x.com/coordinape",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1750164926/migrations/mefnjdrebdlkzliylmzr.svg",
+  "opTokenId": "CO",
+  "addresses": {
+    "1": "0xf828BA501B108FbC6c88eBDfF81C401BB6B94848",
+    "8453": "0xa96bebbb8a9ab88e72f4032aa9b53ba1b6ef7c70"
+  }
+}

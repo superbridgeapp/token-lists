@@ -1,0 +1,14 @@
+{
+  "name": "Ara Token",
+  "symbol": "ARA",
+  "decimals": 18,
+  "description": "ARA is a decentralized content, rewards, and finance ecosystem.",
+  "website": "https://ara.one",
+  "twitter": "https://x.com/arablocks",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1750272623/migrations/vrmak0pemdu96pgost4z.svg",
+  "opTokenId": "ARA",
+  "addresses": {
+    "1": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+    "8453": "0x0126511fb442ffa7dcf6aded17a70896d0785778"
+  }
+}

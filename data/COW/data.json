@@ -2,13 +2,14 @@
   "name": "CoW Protocol Token",
   "symbol": "COW",
   "decimals": 18,
-  "description": "CoW Protocol token from Ethereum Mainnet",
+  "description": "CoW Protocol Token from Ethereum Mainnet",
   "website": "cow.fi",
   "twitter": "https://x.com/CoWSwap",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729784219/migrations/aajuoiceu0sikvsjcnfn.svg",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1751547301/migrations/ez6cliqpuejnr5gn925m.svg",
   "opTokenId": "COW",
   "addresses": {
-    "1": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+    "1": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+    "10": "0x9c5e2b2914ac2cb26e814aaa2ea5a494a4f9796d",
     "8453": "0xc694a91e6b071bf030a18bd3053a7fe09b6dae69"
   }
 }

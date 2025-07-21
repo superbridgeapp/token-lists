@@ -1,0 +1,14 @@
+{
+  "name": "Unicorn Meat",
+  "symbol": "w🍖",
+  "decimals": 3,
+  "description": "Wrapped Unicorn Meat is a 1:1 ERC-20 wrapper for the 2016 Ethereum token “Unicorn Meat,” created as part of an early on-chain governance experiment. In 2025, the remaining supply was minted, ownership renounced, and the token wrapped for modern use and trading.",
+  "website": "https://www.unicornmeateth.com/",
+  "twitter": "https://x.com/UnicornMeatETH",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1753057027/migrations/e1q8wtqhdnfaymixinza.svg",
+  "opTokenId": "w🍖",
+  "addresses": {
+    "1": "0xDFA208BB0B811cFBB5Fa3Ea98Ec37Aa86180e668",
+    "8453": "0xca019f402bbc505d418ed92848f74dc792f523d4"
+  }
+}

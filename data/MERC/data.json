@@ -1,0 +1,14 @@
+{
+  "name": "Liquid Mercury",
+  "symbol": "MERC",
+  "decimals": 18,
+  "description": "MERC",
+  "website": "www.liquidmercury.com",
+  "twitter": "https://x.com/MERC_token",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1759092322/migrations/vbhysaaqbabkpghvwagx.svg",
+  "opTokenId": "MERC",
+  "addresses": {
+    "1": "0x6EE2f71049DDE9a93B7c0EE1091b72aCf9b46810",
+    "8453": "0x109c831a1714564ab74f421b7f058c16a463dff9"
+  }
+}

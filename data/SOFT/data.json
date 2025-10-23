@@ -1,11 +1,14 @@
 {
-  "name": "SoftDAO",
+  "name": "Softwealth",
   "symbol": "SOFT",
   "decimals": 18,
-  "logoURI": "https://assets.coingecko.com/coins/images/28568/standard/SI-S_200by200.png",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1761254855/migrations/wrtf2vmdpc3xcksxkmlg.svg",
   "opTokenId": "SOFT",
   "addresses": {
-    "1": "0xfe3b138879d6d0555be4132dcfe6e7424e257a2e",
-    "8453": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993"
-  }
+    "1": "0xbCf25b72014d65A355F15d34a499939D6Ec233f4",
+    "8453": "0x0acf5782f772bb6edb04cd29f37ec9dce5805fab"
+  },
+  "description": "Educational token for Softwealth investment clients",
+  "website": "www.softwealthcrypto.com",
+  "twitter": "https://x.com/softwcrypto"
 }

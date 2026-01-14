@@ -192,34 +192,6 @@
       }
     },
     {
-      "name": "AxonDAO Governance Token",
-      "symbol": "AXGT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/AXGT/logo.svg",
-      "address": "0xDd66781D0E9a08D4FBb5eC7BAc80B691BE27F21D",
-      "chainId": 1,
-      "extensions": {
-        "opTokenId": "AXGT",
-        "standardBridgeAddresses": {
-          "8453": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35"
-        }
-      }
-    },
-    {
-      "name": "AxonDAO Governance Token",
-      "symbol": "AXGT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/data/AXGT/logo.svg",
-      "address": "0x9B700B043e9587ddE9a0c29A9483e2F8FA450d54",
-      "chainId": 8453,
-      "extensions": {
-        "opTokenId": "AXGT",
-        "standardBridgeAddresses": {
-          "1": "0x4200000000000000000000000000000000000010"
-        }
-      }
-    },
-    {
       "name": "Strawberry AI",
       "symbol": "BERRY",
       "decimals": 18,

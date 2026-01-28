@@ -1,0 +1,14 @@
+{
+  "name": "Badger",
+  "symbol": "BADGER",
+  "decimals": 18,
+  "description": "Official BadgerDAO token",
+  "website": "https://badger.com",
+  "twitter": "https://x.com/BadgerDAO",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1769576004/migrations/qm0kzz2twyovnpzaofze.svg",
+  "opTokenId": "BADGER",
+  "addresses": {
+    "1": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "8453": "0xb26cf14b3a708ac2c7f17807e95450cb1ff4a4c2"
+  }
+}

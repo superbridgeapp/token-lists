@@ -1,0 +1,14 @@
+{
+  "name": "TesterOBOBO1",
+  "symbol": "OBOBO1",
+  "decimals": 18,
+  "description": "OBOBO1 Industry",
+  "website": "https://heroesempires.com/",
+  "twitter": "https://twitter.com/HeroesEmpires",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1723698868/migrations/jgqqyp4kfih6fwa974mp.svg",
+  "opTokenId": "OBOBO1",
+  "addresses": {
+    "1": "0xA6d7AD27D480B28d0F7EE970aB738aC3d1Bd82eA",
+    "8453": "0x90a1138cdb9fcb50cc7f0f330b4724b02657cf27"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "RealGold",
+  "symbol": "RealGold",
+  "decimals": 18,
+  "description": "RealGold is a gold-backed token backed physical gold held in custody. It provides holders on-chain exposure to gold and is fully collateralized by allocated on chain reserves.",
+  "website": "https://www.defactor.com/",
+  "twitter": "https://x.com/defactor_",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1770203007/migrations/mesieqdiwtboyy3f10zz.svg",
+  "opTokenId": "RealGold",
+  "addresses": {
+    "1": "0x21112aa3Fe7d35f79cac57EF44f7f4f944551bD2",
+    "8453": "0x106ad2cafb26de24c5e707447df2e6afcc45468e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Adshares",
+  "symbol": "ADS",
+  "decimals": 11,
+  "description": "Adshares powers the ADS Fund — a token launchpad on the BASE chain. The platform enables open-source projects to launch tokens, helping finance development efforts and increase project visibility.",
+  "website": "https://adshares.net/adsfund",
+  "twitter": "https://x.com/adsharesnet",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1741608677/migrations/qinttfc93gwk1gtrdudc.svg",
+  "opTokenId": "ADS",
+  "addresses": {
+    "1": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+    "8453": "0xb20a4bd059f5914a2f8b9c18881c637f79efb7df"
+  }
+}

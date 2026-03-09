@@ -1,0 +1,14 @@
+{
+  "name": "DivergenceProtocol",
+  "symbol": "DIVER",
+  "decimals": 18,
+  "description": "AMM for digital options to be tokenized, swapped, and settled on chain. ",
+  "website": "https://www.divergence-protocol.com/",
+  "twitter": "https://x.com/divergencedefi",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1748171522/migrations/zvsc2ya6gjgbywjvawm3.svg",
+  "opTokenId": "DIVER",
+  "addresses": {
+    "1": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+    "8453": "0x81949bd04fa0eef0239aa7f8caeb72bbc15bf3ae"
+  }
+}

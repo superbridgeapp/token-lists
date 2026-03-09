@@ -1,0 +1,14 @@
+{
+  "name": "Flayer",
+  "symbol": "FLAY",
+  "decimals": 18,
+  "description": "FLAY powers protocols built by Flayer Labs including the Flaunch protocol - a memecoin launchpad built on Base and powered by Uniswap V4.",
+  "website": "https://flaunch.gg",
+  "twitter": "https://x.com/flaunchgg",
+  "logoURI": "https://raw.githubusercontent.com/flayerlabs/ethereum-optimism.github.io/refs/heads/master/data/FLAY/logo.svg",
+  "opTokenId": "FLAY",
+  "addresses": {
+    "1": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+    "8453": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee"
+  }
+}

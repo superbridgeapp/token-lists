@@ -1,0 +1,13 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "decimals": 18,
+  "description": "My token on Ethereum!",
+  "twitter": "https://x.com/ravespecialist",
+  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1743718158/migrations/wudpw84mrwcckxtn7t7i.svg",
+  "opTokenId": "MTK",
+  "addresses": {
+    "1": "0x02E335a43463e59007803BE260cf37637a3c9eC9",
+    "8453": "0x68793554ccbb07edec75e51efc16142e950651d5"
+  }
+}
